@@ -1,0 +1,308 @@
+Model No,Brand,Control,Prog Name,Type,New CEC,New Star
+AIC052R1 / AOC052R1,APAC,Non Ducted,Single Split System,Cassette,1.5,2.25
+AIC071R1 / AOC071R1,APAC,Non Ducted,Single Split System,Cassette,2.09,2
+AIC080R1 / AOC080R1,APAC,Non Ducted,Single Split System,Cassette,2.38,2
+AIC110R1 / AOC110R1,APAC,Non Ducted,Single Split System,Cassette,3.38,1.5
+AIC130R1 / AOC130R1,APAC,Non Ducted,Single Split System,Cassette,3.93,1.5
+H0900,APAC,Ducted,Packaged,,3.528,0
+H0935,APAC,Ducted,Packaged,,3.656,0
+H0970/H0940,APAC,Non Ducted,Single Split System,,3.516,0
+H1100,APAC,Ducted,Packaged,,4.136,0
+H1170/H1140,APAC,Non Ducted,Single Split System,,4.101,0
+H1220,APAC,Ducted,Packaged,,4.89,0
+H1230,APAC,Ducted,Packaged,,5.26,0
+H1520,APAC,Ducted,Packaged,,5.666,0
+H1520,APAC,Ducted,Packaged,,5.725,0
+H1530,APAC,Ducted,Packaged,,6.11,0
+H1720,APAC,Ducted,Packaged,,6.38,0
+H1730,APAC,Ducted,Packaged,,5.694,0
+H2530,APAC,Ducted,Packaged,,5.23,0
+H2870/H2840,APAC,Non Ducted,Single Split System,,9.65,0
+H3010,APAC,Ducted,Packaged,,10.622,0
+H3030,APAC,Ducted,Packaged,,10.534,0
+H3080/H3060,APAC,Non Ducted,Single Split System,,10.494,0
+H3530,APAC,Ducted,Packaged,,11.69,0
+H3580/H3560,APAC,Non Ducted,Single Split System,,11.638,0
+H4511,APAC,Ducted,Packaged,,14.402,0
+H4531,APAC,Ducted,Packaged,,14.398,0
+H4581/H4561,APAC,Non Ducted,Single Split System,,14.32,0
+P010AHC7AE,APAC,Ducted,Packaged,,2.84,0
+P010AHC7BE,APAC,Ducted,Packaged,,3.14,0
+P010AHC9AE,APAC,Ducted,Packaged,,2.84,0
+P010AHC9BE,APAC,Ducted,Packaged,,3.09,0
+P010AHR7AE,APAC,Ducted,Packaged,,2.84,0
+P010AHR7BE,APAC,Ducted,Packaged,,3.14,0
+P010AHR9AE,APAC,Ducted,Packaged,,2.84,0
+P010AHR9BE,APAC,Ducted,Packaged,,3.09,0
+P012AHC7AE,APAC,Ducted,Packaged,,3.72,0
+P012AHC7BE,APAC,Ducted,Packaged,,3.92,0
+P012AHC9AE,APAC,Ducted,Packaged,,3.66,0
+P012AHC9BE,APAC,Ducted,Packaged,,4.16,0
+P012AHR7AE,APAC,Ducted,Packaged,,3.72,0
+P012AHR7BE,APAC,Ducted,Packaged,,3.92,0
+P012AHR9AE,APAC,Ducted,Packaged,,3.66,0
+P012AHR9BE,APAC,Ducted,Packaged,,4.16,0
+P014AHC9AD,APAC,Ducted,Packaged,,5.348,0
+P014AHR9AD,APAC,Ducted,Packaged,,5.348,0
+P015AHC7AE,APAC,Ducted,Packaged,,4.5,0
+P015AHC7BE,APAC,Ducted,Packaged,,4.57,0
+P015AHC9AE,APAC,Ducted,Packaged,,4.42,0
+P015AHC9BE,APAC,Ducted,Packaged,,4.55,0
+P015AHR7AE,APAC,Ducted,Packaged,,4.5,0
+P015AHR7BE,APAC,Ducted,Packaged,,4.57,0
+P015AHR9AE,APAC,Ducted,Packaged,,4.42,0
+P015AHR9BE,APAC,Ducted,Packaged,,4.55,0
+P015AVC9AB,APAC,Ducted,Packaged,,6.513,0
+P015AVR9AB,APAC,Ducted,Packaged,,6.513,0
+P016AHC9AD,APAC,Ducted,Packaged,,4.947,0
+P016AHR9AD,APAC,Ducted,Packaged,,4.947,0
+P017AHC9AD,APAC,Ducted,Packaged,,5.935,0
+P017AHR9AD,APAC,Ducted,Packaged,,5.935,0
+P018AHC9AE,APAC,Ducted,Packaged,,5.417,0
+P018AHC9BE,APAC,Ducted,Packaged,,5.967,0
+P018AHR9AE,APAC,Ducted,Packaged,,5.417,0
+P018AHR9BE,APAC,Ducted,Packaged,,5.967,0
+P019AHC9AD,APAC,Ducted,Packaged,,6.96,0
+P019AHR9AD,APAC,Ducted,Packaged,,6.96,0
+P021AHC9AE,APAC,Ducted,Packaged,,5.92,0
+P021AHC9BE,APAC,Ducted,Packaged,,6.61,0
+P021AHR9AE,APAC,Ducted,Packaged,,5.92,0
+P021AHR9BE,APAC,Ducted,Packaged,,6.61,0
+P023AHC9AA,APAC,Ducted,Packaged,,7.27,0
+P023AHR9AA,APAC,Ducted,Packaged,,7.27,0
+P024AHC9AE,APAC,Ducted,Packaged,,7.17,0
+P024AHC9BE,APAC,Ducted,Packaged,,7.31,0
+P024AHR9AE,APAC,Ducted,Packaged,,7.17,0
+P024AHR9BE,APAC,Ducted,Packaged,,7.31,0
+P026AHC9AA,APAC,Ducted,Packaged,,8.883,0
+P026AHR9AA,APAC,Ducted,Packaged,,8.883,0
+P030AHC9AA,APAC,Ducted,Packaged,,10.228,0
+P030AHC9AE,APAC,Ducted,Packaged,,9.554,0
+P030AHR9AA,APAC,Ducted,Packaged,,10.228,0
+P030AHR9AE,APAC,Ducted,Packaged,,9.554,0
+P032AHC9AA,APAC,Ducted,Packaged,,10.378,0
+P032AHR9AA,APAC,Ducted,Packaged,,10.378,0
+P036AHC9AD,APAC,Ducted,Packaged,,11.972,0
+P036AHR9AD,APAC,Ducted,Packaged,,11.972,0
+P042AHC9AD,APAC,Ducted,Packaged,,14.076,0
+P042AHR9AD,APAC,Ducted,Packaged,,14.076,0
+P046AHC9AD,APAC,Ducted,Packaged,,14.23,0
+P046AHR9AD,APAC,Ducted,Packaged,,14.23,0
+P055AHC9AE,APAC,Ducted,Packaged,,18.534,0
+P055AHR9AE,APAC,Ducted,Packaged,,18.534,0
+P064AHC9AD,APAC,Ducted,Packaged,,21.376,0
+P064AHC9AD,APAC,Ducted,Packaged,,21.047,0
+P064AHR9AD,APAC,Ducted,Packaged,,21.376,0
+P064AHR9AD,APAC,Ducted,Packaged,,21.047,0
+S006IHC7AN+S006OHC7AN,APAC,Ducted,Single Split System,,1.943,0
+S006IHC7BN+S006OHC7BN,APAC,Ducted,Single Split System,,2.083,0
+S006IHR7AN+S006OHR7AN,APAC,Ducted,Single Split System,,1.75,0
+S006IHR7AN+S006OHR7AN,APAC,Ducted,Single Split System,,1.943,0
+S006IHR7BN+S006OHR7BN,APAC,Ducted,Single Split System,,1.89,0
+S006IHR7BN+S006OHR7BN,APAC,Ducted,Single Split System,,2.083,0
+S006ILR7AN+S006OHR7AN,APAC,Ducted,Single Split System,,1.8,0
+S006ILR7BN+S006OHR7BN,APAC,Ducted,Single Split System,,1.94,0
+S008IHC7AN+S008OHC7AN,APAC,Ducted,Single Split System,,2.48,0
+S008IHC7AN+S008OHC7AN,APAC,Ducted,Single Split System,,2.48,0
+S008IHC7BN+S008OHC7BN,APAC,Ducted,Single Split System,,2.69,0
+S008IHR7AN+S008OHR7AN,APAC,Ducted,Single Split System,,2.3,0
+S008IHR7AN+S008OHR7AN,APAC,Ducted,Single Split System,,2.48,0
+S008IHR7AN+S008OHR7AN,APAC,Ducted,Single Split System,,2.48,0
+S008IHR7BN+S008OHR7BN,APAC,Ducted,Single Split System,,2.51,0
+S008IHR7BN+S008OHR7BN,APAC,Ducted,Single Split System,,2.69,0
+S008ILR7AN+S008OHR7AN,APAC,Ducted,Single Split System,,2.311,0
+S008ILR7BN+S008OHR7BN,APAC,Ducted,Single Split System,,2.521,0
+S009IHC7AH,APAC,Non Ducted,Single Split System,,3.42,0
+S009IHC7AK,APAC,Non Ducted,Single Split System,,3.283,0
+S009IHC7AL,APAC,Non Ducted,Single Split System,,3.283,0
+S009IHC9AH,APAC,Non Ducted,Single Split System,,3.42,0
+S009IHR7AH + S009OHR9AH,APAC,Non Ducted,Single Split System,,3.42,0
+S009IHR7AK + S009OHR9AK,APAC,Non Ducted,Single Split System,,3.283,0
+S009IHR7AL,APAC,Non Ducted,Single Split System,,3.283,0
+S009OHC9AK,APAC,Non Ducted,Single Split System,,3.283,0
+S009OHC9AL,APAC,Non Ducted,Single Split System,,3.283,0
+S009OHR9AL,APAC,Non Ducted,Single Split System,,3.283,0
+S010IHC7AN+S010OHC7AN,APAC,Ducted,Single Split System,,3.025,0
+S010IHC7AN+S010OHC9AN,APAC,Ducted,Single Split System,,3.035,0
+S010IHC7BN+S010OHC7BN,APAC,Ducted,Single Split System,,3.315,0
+S010IHC7BN+S010OHC9BN,APAC,Ducted,Single Split System,,3.265,0
+S010IHR7AE+S010OHR7AE,APAC,Ducted,Single Split System,,2.805,0
+S010IHR7AE+S010OHR9AE,APAC,Ducted,Single Split System,,2.815,0
+S010IHR7AN+S010OHR7AN,APAC,Ducted,Single Split System,,2.805,0
+S010IHR7AN+S010OHR7AN,APAC,Ducted,Single Split System,,3.025,0
+S010IHR7AN+S010OHR9AN,APAC,Ducted,Single Split System,,2.815,0
+S010IHR7AN+S010OHR9AN,APAC,Ducted,Single Split System,,3.035,0
+S010IHR7BE+S010OHR7BE,APAC,Ducted,Single Split System,,3.095,0
+S010IHR7BE+S010OHR9BE,APAC,Ducted,Single Split System,,3.045,0
+S010IHR7BN+S010OHR7BN,APAC,Ducted,Single Split System,,3.095,0
+S010IHR7BN+S010OHR7BN,APAC,Ducted,Single Split System,,3.315,0
+S010IHR7BN+S010OHR9BN,APAC,Ducted,Single Split System,,3.045,0
+S010IHR7BN+S010OHR9BN,APAC,Ducted,Single Split System,,3.265,0
+S010ILR7AN+S010OHR7AN,APAC,Ducted,Single Split System,,2.87,0
+S010ILR7AN+S010OHR9AN,APAC,Ducted,Single Split System,,2.88,0
+S010ILR7BN+S010OHR7BN,APAC,Ducted,Single Split System,,3.16,0
+S010ILR7BN+S010OHR9BN,APAC,Ducted,Single Split System,,3.11,0
+S011IHC7AH,APAC,Non Ducted,Single Split System,,3.929,0
+S011IHC7AK,APAC,Non Ducted,Single Split System,,3.566,0
+S011IHC7AL,APAC,Non Ducted,Single Split System,,3.566,0
+S011IHC9AH,APAC,Non Ducted,Single Split System,,3.929,0
+S011IHR7AH + S011OHR9AH,APAC,Non Ducted,Single Split System,,3.929,0
+S011IHR7AK + S011OHR9AK,APAC,Non Ducted,Single Split System,,3.566,0
+S011IHR7AL,APAC,Non Ducted,Single Split System,,3.566,0
+S011OHC9AK,APAC,Non Ducted,Single Split System,,3.566,0
+S011OHC9AL,APAC,Non Ducted,Single Split System,,3.566,0
+S011OHR9AL,APAC,Non Ducted,Single Split System,,3.566,0
+S012IHC7AN+S012OHC7AN,APAC,Ducted,Single Split System,,3.892,0
+S012IHC7AN+S012OHC9AN,APAC,Ducted,Single Split System,,3.832,0
+S012IHC7BN+S012OHC7BN,APAC,Ducted,Single Split System,,4.092,0
+S012IHC7BN+S012OHC9BN,APAC,Ducted,Single Split System,,4.302,0
+S012IHR7AE+S012OHR7AE,APAC,Ducted,Single Split System,,3.632,0
+S012IHR7AE+S012OHR9AE,APAC,Ducted,Single Split System,,3.572,0
+S012IHR7AN+S012OHR7AN,APAC,Ducted,Single Split System,,3.632,0
+S012IHR7AN+S012OHR7AN,APAC,Ducted,Single Split System,,3.892,0
+S012IHR7AN+S012OHR9AN,APAC,Ducted,Single Split System,,3.572,0
+S012IHR7AN+S012OHR9AN,APAC,Ducted,Single Split System,,3.832,0
+S012IHR7BE+S012OHR7BE,APAC,Ducted,Single Split System,,3.832,0
+S012IHR7BE+S012OHR9BE,APAC,Ducted,Single Split System,,4.042,0
+S012IHR7BN+S012OHR7BN,APAC,Ducted,Single Split System,,3.832,0
+S012IHR7BN+S012OHR7BN,APAC,Ducted,Single Split System,,4.092,0
+S012IHR7BN+S012OHR9BN,APAC,Ducted,Single Split System,,4.042,0
+S012IHR7BN+S012OHR9BN,APAC,Ducted,Single Split System,,4.302,0
+S012ILR7AN+S012OHR7AN,APAC,Ducted,Single Split System,,3.802,0
+S012ILR7AN+S012OHR9AN,APAC,Ducted,Single Split System,,3.742,0
+S012ILR7BN+S012OHR7BN,APAC,Ducted,Single Split System,,4.002,0
+S012ILR7BN+S012OHR9BN,APAC,Ducted,Single Split System,,4.212,0
+S014IHC7AD,APAC,Non Ducted,Single Split System,,5.459,0
+S014IHC7AH,APAC,Non Ducted,Single Split System,,5.328,0
+S014IHC7AK,APAC,Non Ducted,Single Split System,,4.997,0
+S014IHC7AL,APAC,Non Ducted,Single Split System,,4.997,0
+S014IHR7AD + S014OVR9AD,APAC,Non Ducted,Single Split System,,5.459,0
+S014IHR7AH + S014OHR9AH,APAC,Non Ducted,Single Split System,,5.328,0
+S014IHR7AK + S014OHR9AK,APAC,Non Ducted,Single Split System,,4.997,0
+S014IHR7AL,APAC,Non Ducted,Single Split System,,4.997,0
+S014OHC9AH,APAC,Non Ducted,Single Split System,,5.328,0
+S014OHC9AK,APAC,Non Ducted,Single Split System,,4.997,0
+S014OHC9AL,APAC,Non Ducted,Single Split System,,4.997,0
+S014OHR9AL,APAC,Non Ducted,Single Split System,,4.997,0
+S014OVC9AD,APAC,Non Ducted,Single Split System,,5.459,0
+S015IHC7AN+S015OHC7AN,APAC,Ducted,Single Split System,,5.083,0
+S015IHC7AN+S015OHC9AN,APAC,Ducted,Single Split System,,5.013,0
+S015IHC7BN+S015OHC7BN,APAC,Ducted,Single Split System,,5.143,0
+S015IHC7BN+S015OHC9BN,APAC,Ducted,Single Split System,,5.143,0
+S015IHR7AN+S015OHR7AN,APAC,Ducted,Single Split System,,5.083,0
+S015IHR7AN+S015OHR9AN,APAC,Ducted,Single Split System,,5.013,0
+S015IHR7BN+S015OHR7BN,APAC,Ducted,Single Split System,,5.143,0
+S015IHR7BN+S015OHR9BN,APAC,Ducted,Single Split System,,5.143,0
+S015ILR7AN+S015OHR7AN,APAC,Ducted,Single Split System,,4.722,0
+S015ILR7AN+S015OHR9AN,APAC,Ducted,Single Split System,,4.652,0
+S015ILR7BN+S015OHR7BN,APAC,Ducted,Single Split System,,4.792,0
+S015ILR7BN+S015OHR9BN,APAC,Ducted,Single Split System,,4.802,0
+S016IHC7AD,APAC,Non Ducted,Single Split System,,5.531,0
+S016IHR7AD + S016OVR9AD,APAC,Non Ducted,Single Split System,,5.531,0
+S016OVC9AD,APAC,Non Ducted,Single Split System,,5.531,0
+S016OVC9AD,APAC,Non Ducted,Single Split System,,4.136,0
+S017IHC7AD,APAC,Non Ducted,Single Split System,,6.233,0
+S017IHC7AH,APAC,Non Ducted,Single Split System,,5.509,0
+S017IHR7AD + S017OVR9AD,APAC,Non Ducted,Single Split System,,6.233,0
+S017IHR7AH + S017OHR9AH,APAC,Non Ducted,Single Split System,,5.509,0
+S017OHC9AH,APAC,Non Ducted,Single Split System,,5.509,0
+S017OVC9AD,APAC,Non Ducted,Single Split System,,6.233,0
+S017OVC9AD,APAC,Non Ducted,Single Split System,,4.101,0
+S018IHC7AN+S018OHC9AN,APAC,Ducted,Single Split System,,5.98,0
+S018IHC7BN+S018OHC9BN,APAC,Ducted,Single Split System,,6.53,0
+S018IHR7AN+S018OHR9AN,APAC,Ducted,Single Split System,,5.98,0
+S018IHR7BN+S018OHR9BN,APAC,Ducted,Single Split System,,6.53,0
+S019IHC7AD,APAC,Non Ducted,Single Split System,,6.348,0
+S019IHR7AD + S019OVR9AD,APAC,Non Ducted,Single Split System,,6.348,0
+S019OVC9AD,APAC,Non Ducted,Single Split System,,5.725,0
+S019OVC9AD,APAC,Non Ducted,Single Split System,,6.348,0
+S021IHC7AN+S021OHC9AN,APAC,Ducted,Single Split System,,6.681,0
+S021IHC7BN+S021OHC9BN,APAC,Ducted,Single Split System,,7.351,0
+S021IHR7AN+S021OHR9AN,APAC,Ducted,Single Split System,,6.681,0
+S021IHR7BN+S021OHR9BN,APAC,Ducted,Single Split System,,7.351,0
+S022IHC7AK,APAC,Non Ducted,Single Split System,,7.738,0
+S022IHC7AL,APAC,Non Ducted,Single Split System,,7.738,0
+S022IHR7AK + S022OHR9AK,APAC,Non Ducted,Single Split System,,7.738,0
+S022IHR7AL,APAC,Non Ducted,Single Split System,,7.738,0
+S022OHC9AK,APAC,Non Ducted,Single Split System,,7.738,0
+S022OHC9AL,APAC,Non Ducted,Single Split System,,7.738,0
+S022OHR9AL,APAC,Non Ducted,Single Split System,,7.738,0
+S023IHC7AA,APAC,Non Ducted,Single Split System,,7.839,0
+S023IHR7AA + S023OVR9AA,APAC,Non Ducted,Single Split System,,7.839,0
+S023OVC9AA,APAC,Non Ducted,Single Split System,,7.839,0
+S023OVC9AD,APAC,Non Ducted,Single Split System,,6.38,0
+S024IHC7AN+S024OHC9AN,APAC,Ducted,Single Split System,,7.99,0
+S024IHC7BN+S024OHC9BN,APAC,Ducted,Single Split System,,8.1,0
+S024IHR7AN+S024OHR9AN,APAC,Ducted,Single Split System,,7.99,0
+S024IHR7BN + S024OVR9BN,APAC,Ducted,Single Split System,,7.567,0
+S024IHR7BN+S024OHR9BN,APAC,Ducted,Single Split System,,8.1,0
+S026IHC7AA,APAC,Non Ducted,Single Split System,,8.53,0
+S026IHR7AA + S026OVR9AA,APAC,Non Ducted,Single Split System,,8.53,0
+S026OVC9AA,APAC,Non Ducted,Single Split System,,8.53,0
+S026OVR9AA,APAC,Non Ducted,Single Split System,,10.622,0
+S030IHC7AA,APAC,Non Ducted,Single Split System,,10.4,0
+S030IHR7AA + S030OVR9AA,APAC,Non Ducted,Single Split System,,10.4,0
+S030OVC9AA,APAC,Non Ducted,Single Split System,,10.4,0
+S030OVC9AA,APAC,Non Ducted,Single Split System,,10.534,0
+S032IHC9AA,APAC,Non Ducted,Single Split System,,10.324,0
+S032IHR9AA + S032OVR9AA,APAC,Non Ducted,Single Split System,,10.324,0
+S032OVC9AA,APAC,Non Ducted,Single Split System,,10.324,0
+S032OVC9AA,APAC,Non Ducted,Single Split System,,11.69,0
+S036IHC9AA,APAC,Non Ducted,Single Split System,,12.014,0
+S036IHR9AA + S036OVR9AD,APAC,Non Ducted,Single Split System,,12.014,0
+S036IHR9BE + S036OVR9BE,APAC,Ducted,Single Split System,,11.335,0
+S036OVC9AD,APAC,Non Ducted,Single Split System,,12.014,0
+S042IHC9AA,APAC,Non Ducted,Single Split System,,14.162,0
+S042IHR9AA + S042OVR9AD,APAC,Non Ducted,Single Split System,,14.162,0
+S042OVC9AD,APAC,Non Ducted,Single Split System,,14.162,0
+S046IHC9AB,APAC,Non Ducted,Single Split System,,13.898,0
+S046IHR9AB + S046OVR9AD,APAC,Non Ducted,Single Split System,,13.898,0
+S046OVC9AD,APAC,Non Ducted,Single Split System,,13.898,0
+S055IHC9AE,APAC,Non Ducted,Single Split System,,18.452,0
+S055IHR7AE + S055OVR9AE,APAC,Non Ducted,Single Split System,,18.452,0
+S055OVC9AE,APAC,Non Ducted,Single Split System,,18.452,0
+S064IHC9AB,APAC,Non Ducted,Single Split System,,21.278,0
+S064IHR9AB + S064OVR9AD,APAC,Non Ducted,Single Split System,,21.278,0
+S064OVC9AD,APAC,Non Ducted,Single Split System,,21.278,0
+S0900,APAC,Ducted,Packaged,,3.528,0
+S0935,APAC,Ducted,Packaged,,3.656,0
+S0940,APAC,Non Ducted,Single Split System,,3.516,0
+S0970,APAC,Non Ducted,Single Split System,,3.516,0
+S1100,APAC,Ducted,Packaged,,4.136,0
+S1140,APAC,Non Ducted,Single Split System,,4.101,0
+S1170,APAC,Non Ducted,Single Split System,,4.101,0
+S1220,APAC,Ducted,Packaged,,4.89,0
+S1230,APAC,Ducted,Packaged,,5.26,0
+S1520,APAC,Ducted,Packaged,,5.666,0
+S1520,APAC,Ducted,Packaged,,5.725,0
+S1530,APAC,Ducted,Packaged,,6.11,0
+S1580,APAC,Non Ducted,Single Split System,,4.136,0
+S15HP/EV,APAC,Non Ducted,Single Split System,,4.136,0
+S1720,APAC,Ducted,Packaged,,6.38,0
+S1730,APAC,Ducted,Packaged,,5.694,0
+S1780,APAC,Non Ducted,Single Split System,,4.101,0
+S17HP/EV,APAC,Non Ducted,Single Split System,,4.101,0
+S2081,APAC,Non Ducted,Single Split System,,5.725,0
+S20HP/EV,APAC,Non Ducted,Single Split System,,5.725,0
+S2530,APAC,Ducted,Packaged,,5.23,0
+S2580,APAC,Non Ducted,Single Split System,,10.622,0
+S2580,APAC,Non Ducted,Single Split System,,6.38,0
+S25HP/EV,APAC,Non Ducted,Single Split System,,10.622,0
+S25HP/EV,APAC,Non Ducted,Single Split System,,6.38,0
+S2840,APAC,Non Ducted,Single Split System,,9.65,0
+S2870,APAC,Non Ducted,Single Split System,,9.65,0
+S3010,APAC,Ducted,Packaged,,10.622,0
+S3030,APAC,Ducted,Packaged,,10.534,0
+S3060,APAC,Non Ducted,Single Split System,,10.494,0
+S3080,APAC,Non Ducted,Single Split System,,10.534,0
+S3080,APAC,Non Ducted,Single Split System,,10.494,0
+S3080,APAC,Non Ducted,Single Split System,,11.69,0
+S30HP/EV,APAC,Non Ducted,Single Split System,,10.534,0
+S30HP/EV,APAC,Non Ducted,Single Split System,,11.69,0
+S3530,APAC,Ducted,Packaged,,11.69,0
+S3560,APAC,Non Ducted,Single Split System,,11.638,0
+S3580,APAC,Non Ducted,Single Split System,,11.638,0
+S4511,APAC,Ducted,Packaged,,14.402,0
+S4531,APAC,Ducted,Packaged,,14.398,0
+S4561,APAC,Non Ducted,Single Split System,,14.32,0
+S4581,APAC,Non Ducted,Single Split System,,14.32,0

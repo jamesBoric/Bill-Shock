@@ -1,0 +1,77 @@
+Model No,Brand,Control,Prog Name,Type,New CEC,New Star
+FDC1008HES3-3FDUR408-A,MHI,Non Ducted,Single Split System,,13.79,0
+FDC1008HES3-FDU1008-A,MHI,Ducted,Single Split System,,11.07,0
+FDC306CES3-FDEN308-A,MHI,Non Ducted,Single Split System,,3.53,0
+FDC306CES3-FDKN308-A,MHI,Non Ducted,Single Split System,,3.71,0
+FDC306CES3-FDT(N)308-A,MHI,Non Ducted,Single Split System,,3.4,0
+FDC306CES3-FDUR308-A,MHI,Non Ducted,Single Split System,,4.1,0
+FDC308HES3B-FDKN308H,MHI,Non Ducted,Single Split System,,2.87,0
+FDC406,MHI,Non Ducted,Single Split System,,3.95,0
+FDC406,MHI,Non Ducted,Single Split System,,3.83,0
+FDC406CES3-FDEN408CES,MHI,Non Ducted,Single Split System,,3.95,0
+FDC406CES3-FDT(N)408CES,MHI,Non Ducted,Single Split System,,3.83,0
+FDC406CES3-FDUR408-A,MHI,Ducted,Single Split System,,4.09,0
+FDC408,MHI,Non Ducted,Single Split System,,4.38,0
+FDC408HES3 - FDT(N)408HES-S,MHI,Non Ducted,Single Split System,,4.3,0
+FDC408HES3-FDEN408HES-S,MHI,Non Ducted,Single Split System,,4.39,0
+FDC506,MHI,Non Ducted,Single Split System,,5.19,0
+FDC506,MHI,Non Ducted,Single Split System,,5.29,0
+FDC506CES3-FDEN508CES,MHI,Non Ducted,Single Split System,,5.15,0
+FDC506CES3-FDT(N)508CES,MHI,Non Ducted,Single Split System,,5.06,0
+FDC508,MHI,Non Ducted,Single Split System,,5.87,0
+FDC508HES3-2FDT308-A,MHI,Non Ducted,Single Split System,,5.34,0
+FDC508HES3-FDT(N)508HES-S,MHI,Non Ducted,Single Split System,,5.36,0
+FDC508HES3-FDUR508HES-S,MHI,Non Ducted,Single Split System,,5.83,0
+FDC608HES3-FDUR608A,MHI,Ducted,Single Split System,,6.27,0
+FDC808HES3-2FDT(N)408-A,MHI,Non Ducted,Single Split System,,8.387,0
+FDC808HES3-2FDUR408-A,MHI,Non Ducted,Single Split System,,8.916,0
+FDC808HES3-3FDUR308-A,MHI,Non Ducted,Single Split System,,8.974,0
+FDEN308HEN-SB,MHI,Non Ducted,Single Split System,,2.99,0
+FDEN408CES,MHI,Non Ducted,Single Split System,,3.83,0
+FDEN408HES,MHI,Non Ducted,Single Split System,,3.95,0
+FDEN408HES-S,MHI,Non Ducted,Single Split System,,4.38,0
+FDEN508CES,MHI,Non Ducted,Single Split System,,5.19,0
+FDEN508HES,MHI,Non Ducted,Single Split System,,5.87,0
+FDEN508HES,MHI,Non Ducted,Single Split System,,5.29,0
+FDF508HES,MHI,Non Ducted,Single Split System,,5.29,0
+FDKN208H,MHI,Non Ducted,Single Split System,,1.8,0
+FDKN258C,MHI,Non Ducted,Single Split System,,2.11,0
+FDKN258H,MHI,Non Ducted,Single Split System,,2.11,0
+FDKN308C,MHI,Non Ducted,Single Split System,,3.08,0
+FDKN308H,MHI,Non Ducted,Single Split System,,3.08,0
+FDR408HES,MHI,Non Ducted,Single Split System,,3.95,0
+FDR508HES,MHI,Non Ducted,Single Split System,,5.29,0
+FDR508HES-S,MHI,Non Ducted,Single Split System,,5.87,0
+FDT(N)408HES,MHI,Non Ducted,Single Split System,,3.95,0
+FDT(N)408HES-S,MHI,Non Ducted,Single Split System,,4.38,0
+FDT(N)508HES,MHI,Non Ducted,Single Split System,,5.29,0
+FDT(N)508HES-S,MHI,Non Ducted,Single Split System,,5.87,0
+FDUR408HES,MHI,Non Ducted,Single Split System,,3.95,0
+FDUR508HES,MHI,Non Ducted,Single Split System,,5.29,0
+SRK09CBA,MHI,Non Ducted,Single Split System,,1.01,0
+SRK12CCA,MHI,Ducted,Single Split System,,1.38,0
+SRK208CENF-A,MHI,Non Ducted,Single Split System,,0.58,0
+SRK208HENF-A,MHI,Non Ducted,Single Split System,,0.77,0
+SRK25GZ-LI,MHI,Non Ducted,Single Split System,,0.96,0
+SRK288CENF-A,MHI,Non Ducted,Single Split System,,0.97,0
+SRK288HENF-A,MHI,Non Ducted,Single Split System,,1.07,0
+SRK35GZ-LI,MHI,Non Ducted,Single Split System,,1.24,0
+SRK388HENF-A,MHI,Non Ducted,Single Split System,,1.32,0
+SRK388HENF-AU,MHI,Non Ducted,Single Split System,,1.32,0
+SRK408CENF-A,MHI,Non Ducted,Single Split System,,1.49,0
+SRK408CENF-A,MHI,Non Ducted,Single Split System,,1.49,0
+SRK408HENF-A,MHI,Non Ducted,Single Split System,,1.51,0
+SRK408HENF-A2,MHI,Ducted,Single Split System,,1.51,0
+SRK458HENF-A,MHI,Non Ducted,Single Split System,,1.7,0
+SRK502Z-L,MHI,Non Ducted,Single Split System,,2.22,0
+SRK508CENF-A,MHI,Non Ducted,Single Split System,,1.99,0
+SRK561CENF-A,MHI,Non Ducted,Single Split System,,2.18,0
+SRK561HENF-A,MHI,Non Ducted,Single Split System,,2.18,0
+SRK568CENF-A,MHI,Non Ducted,Single Split System,,2.28,0
+SRK56CAA,MHI,Ducted,Single Split System,,2.13,0
+SRK56HAA,MHI,Non Ducted,Single Split System,,2.13,0
+SRT403HENF-L,MHI,Non Ducted,Single Split System,,1.38,0
+WR125CENF-W,MHI,Non Ducted,Window Wall,,1.36,0
+WR188PENF-S8A,MHI,Non Ducted,Window Wall,,2.06,0
+WR247CBNA-SM,MHI,Non Ducted,Window Wall,,3.22,0
+WR91CENF-W,MHI,Non Ducted,Single Split System,,1.07,0

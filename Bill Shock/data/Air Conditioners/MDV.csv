@@ -1,0 +1,82 @@
+Model No,Brand,Control,Prog Name,Type,New CEC,New Star
+CDV-104/Q / C-CDV-104/Q,MDV,Ducted,Single Split System,,3.25,2
+CDV-135/Q / C-CDV-135/Q,MDV,Ducted,Single Split System,,4.22,2
+CDV-168/Q / C-CDV-168/Q,MDV,Ducted,Single Split System,,5.3,2
+CDV-53/QRC8(A) / C-CDV-53/QRC8(A),MDV,Ducted,Single Split System,,1.53,2.25
+CDV-73/Q / C-CDV-73/Q,MDV,Ducted,Single Split System,,2.22,2.5
+CSV-110/Q / C-CSV-110/Q,MDV,Non Ducted,Single Split System,Cassette,3.45,1.5
+CSV-128/Q / C-CSV-128/Q,MDV,Non Ducted,Single Split System,Cassette,4.05,1.5
+CSV-53/QRC8 / C-CSV-53/QRC8,MDV,Non Ducted,Single Split System,Cassette,1.56,2.25
+CSV-71/QRC8 / C-CSV-71/QRC8,MDV,Non Ducted,Single Split System,Cassette,2.15,2
+CSV-81/Q / C-CSV-81/Q,MDV,Non Ducted,Single Split System,Cassette,2.47,2
+MCC-24HRDN1-Q,MDV,Non Ducted,Single Split System,Cassette,2.35,1.25
+MCC-36HRDN1-Q,MDV,Non Ducted,Single Split System,Cassette,3.27,1
+MCC-48HRDN1-Q,MDV,Non Ducted,Single Split System,Cassette,4.57,1.25
+MCD-18HRFN1-QRC8/MOU-18HFN1-QRC8,MDV,Non Ducted,Single Split System,Cassette,1.56,2.25
+MCD-30HRFN1-Q/MOU-30HFN1-Q,MDV,Non Ducted,Single Split System,Cassette,2.47,2
+MCD-42HRFN1-Q/MOU-42HFN1-Q,MDV,Non Ducted,Single Split System,Cassette,3.45,1.5
+MCD-46HRFN1-Q/MOU-46HFN1-Q,MDV,Non Ducted,Single Split System,Cassette,4.05,1.5
+MDV-12CR,MDV,Non Ducted,Single Split System,Wall Hung,1.05,0
+MDV-18CR,MDV,Non Ducted,Single Split System,Wall Hung,1.7,0
+MDV-W-12CR,MDV,Non Ducted,Window Wall,,1.15,0
+MHA-48HRDN1-C2,MDV,Ducted,Single Split System,,4.6,1.5
+MHA-60HRDN1-C2,MDV,Ducted,Single Split System,,5.25,1.5
+MHD-36HRDN1-M3/MOU-36HDN1-M3,MDV,Ducted,Single Split System,,3.3,1.5
+MHD-36HRDN1-M4/ MOU-36HFN1-M4,MDV,Ducted,Single Split System,,3.18,1.75
+MHD-36HRDN1-Q,MDV,Ducted,Single Split System,,3.3,1.5
+MHD-48HRFN1-M4/ MOU-48HFN1-M4,MDV,Ducted,Single Split System,,4.2,2
+MHD-48HRFN1-Q,MDV,Ducted,Single Split System,,4.2,2
+MHD-48HWDN1-C3,MDV,Ducted,Single Split System,,4.66,1.5
+MHD-48HWDN1-M3/MOU-48HDN1-M3,MDV,Ducted,Single Split System,,4.66,1.5
+MHD-60HWDN1-QC3,MDV,Ducted,Single Split System,,5.14,1.25
+MHG-48HWFN1-Q/ MOU-48HFN1-Q,MDV,Ducted,Single Split System,,4.22,2
+MHG-60HWFN1-Q/ MOU-60HFN1-Q,MDV,Ducted,Single Split System,,5.3,2
+MSC-09HRDN1-M4,MDV,Non Ducted,Single Split System,Wall Hung,0.69,2.75
+MSC-09HRDN1-M4A,MDV,Non Ducted,Single Split System,Wall Hung,0.67,3
+MSC-09HRDN1-QC2,MDV,Non Ducted,Single Split System,Wall Hung,0.69,3
+MSC-09HRDN1-QC8GP,MDV,Non Ducted,Single Split System,Wall Hung,0.69,2.75
+MSC-09HRN1-M4,MDV,Non Ducted,Single Split System,Wall Hung,0.71,3
+MSC-09HRN1-QC7,MDV,Non Ducted,Single Split System,Wall Hung,0.75,2.5
+MSC-09HRN1-QD0G,MDV,Non Ducted,Single Split System,Wall Hung,0.71,3
+MSC-09HWDN1-QC8G,MDV,Non Ducted,Single Split System,Wall Hung,0.67,3
+MSC-12HRDN1-M4,MDV,Non Ducted,Single Split System,Wall Hung,0.89,2.25
+MSC-12HRDN1-QC2,MDV,Non Ducted,Single Split System,Wall Hung,0.88,3
+MSC-12HRDN1-QC8GP,MDV,Non Ducted,Single Split System,Wall Hung,0.89,2.25
+MSC-12HRN1-M4,MDV,Non Ducted,Single Split System,Wall Hung,0.92,3
+MSC-12HRN1-QD0G,MDV,Non Ducted,Single Split System,Wall Hung,0.92,3
+MSC-12HWDN1-QC8G,MDV,Non Ducted,Single Split System,Wall Hung,0.89,2.75
+MSC-18HRDN1,MDV,Non Ducted,Single Split System,Wall Hung,1.54,2
+MSC-18HRDN1-M4,MDV,Non Ducted,Single Split System,Wall Hung,1.52,1.5
+MSC-18HRDN1-M4A,MDV,Non Ducted,Single Split System,Wall Hung,1.6,1.5
+MSC-18HRDN1-QC2GP,MDV,Non Ducted,Single Split System,Wall Hung,1.52,1.5
+MSC-18HRN1-M4,MDV,Non Ducted,Single Split System,Wall Hung,1.57,2
+MSC-18HRN1-QC6G,MDV,Non Ducted,Single Split System,Wall Hung,1.57,2
+MSC-18HWRDN1-QC3G,MDV,Non Ducted,Single Split System,Wall Hung,1.6,1.5
+MSC-24HRDN1-M3,MDV,Non Ducted,Single Split System,Wall Hung,2.08,2
+MSC-24HRDN1-M4,MDV,Non Ducted,Single Split System,Wall Hung,1.95,1.5
+MSC-24HRDN1-QC2,MDV,Non Ducted,Single Split System,Wall Hung,2.08,2
+MSC-24HRDN1-QC2GP,MDV,Non Ducted,Single Split System,Wall Hung,1.95,1.5
+MSC-24HRN1-QC6GPW,MDV,Non Ducted,Single Split System,Wall Hung,1.92,2
+MSC-28HRDN1-M3,MDV,Non Ducted,Single Split System,Wall Hung,2.46,2
+MSC-28HRDN1-M4,MDV,Non Ducted,Single Split System,Wall Hung,2.23,2
+MSC-28HRDN1-QC2,MDV,Non Ducted,Single Split System,Wall Hung,2.46,2
+MSC-28HRDN1-QC2GP,MDV,Non Ducted,Single Split System,Wall Hung,2.39,1.5
+MSC-28HRN1-QC6GPW,MDV,Non Ducted,Single Split System,Wall Hung,2.25,2
+MSG-12HRN1-M3,MDV,Non Ducted,Single Split System,Wall Hung,0.92,2.5
+MSG-18HRN1-M3,MDV,Non Ducted,Single Split System,Wall Hung,1.6,2
+MSG-35HRN1-M3,MDV,Non Ducted,Single Split System,Wall Hung,2.7,2
+MWF-12HRN1-M4,MDV,Non Ducted,Window Wall,,1.05,2
+MWF-20HRN1,MDV,Non Ducted,Window Wall,,1.89,1.5
+MWF1-09HRN1-M4,MDV,Non Ducted,Window Wall,,0.79,2
+WMF-27/QD0G(A) / C-WMF-27/QD0G(A),MDV,Non Ducted,Single Split System,Wall Hung,0.72,3
+WMF-35/QD0G / C-WMF-35/QD0G,MDV,Non Ducted,Single Split System,Wall Hung,0.94,3
+WMF-51/QC6G / C-WMF-51/QC6G,MDV,Non Ducted,Single Split System,Wall Hung,1.55,2
+WMF-64/QC6GPW / C-WMF-64/QC6GPW,MDV,Non Ducted,Single Split System,Wall Hung,1.94,2
+WMF-76/QC6GPW / C-WMF-76/QC6GPW,MDV,Non Ducted,Single Split System,Wall Hung,2.25,2
+WMF-83/QC6GPW / C-WMF-83/QC6GPW,MDV,Non Ducted,Single Split System,Wall Hung,2.5,2.25
+WMV-24/QD0G / C-WMV-24/QD0G,MDV,Non Ducted,Single Split System,Wall Hung,0.66,3
+WMV-35/QC8G / C-WMV-35/QC8G,MDV,Non Ducted,Single Split System,Wall Hung,0.96,3
+WMV-49/QC2G / C-WMV-49/QC2G,MDV,Non Ducted,Single Split System,Wall Hung,1.58,2.5
+WMV-67/QC6G / C- WMV-67/QC6G,MDV,Non Ducted,Single Split System,Wall Hung,2.12,1.75
+WMV-76/QC6GW / C- WMV-76/QC6GW,MDV,Non Ducted,Single Split System,Wall Hung,2.23,2
+WMV-80/QC6GW / C- WMV-80/QC6GW,MDV,Non Ducted,Single Split System,Wall Hung,2.55,2

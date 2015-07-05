@@ -1,0 +1,420 @@
+Model No,Brand,Control,Prog Name,Type,New CEC,New Star
+ RAV-SM1104BT-E + RAV-SP1104AT-A,Toshiba,Ducted,Single Split System,,2.94,0
+ RAV-SM1104UT-E + RAV-SM1103AT-A,Toshiba,Non Ducted,Single Split System,Cassette,3.11,0
+ RAV-SM1104UT-E + RAV-SP1104AT-A,Toshiba,Non Ducted,Single Split System,Cassette,2.21,0
+ RAV-SM1104UTP-E + RAV-SM1103AT-A,Toshiba,Non Ducted,Single Split System,Cassette,3.11,0
+ RAV-SM1106BT-E + RAV-SP1104AT-A,Toshiba,Ducted,Single Split System,,2.64,0
+ RAV-SM1403DT-A + RAV-SP1404AT-A,Toshiba,Ducted,Single Split System,,3.66,0
+ RAV-SM1404BT-E + RAV-SP1404AT-A,Toshiba,Ducted,Single Split System,,3.83,0
+ RAV-SM1404CT-E + RAV-SP1404AT-A,Toshiba,Non Ducted,Single Split System,Under ceiling,3.73,0
+ RAV-SM1404UT-E + RAV-SM1403AT-A,Toshiba,Non Ducted,Single Split System,Cassette,3.35,0
+ RAV-SM1404UT-E + RAV-SP1404AT-A,Toshiba,Non Ducted,Single Split System,Cassette,3.16,0
+ RAV-SM1404UT-E + RAV-SP1404AT8-A,Toshiba,Non Ducted,Single Split System,Cassette,3.46,0
+ RAV-SM1406BT-E + RAV-SP1404AT-A,Toshiba,Ducted,Single Split System,,3.83,0
+ RAV-SM1406BT-E +RAV-SP1404AT8-A,Toshiba,Ducted,Single Split System,,3.86,0
+ RAV-SM1603DT-A + RAV-SP1604AT8-A,Toshiba,Ducted,Single Split System,,4.12,0
+ RAV-SM1604UT-E + RAV-SM1603AT-A,Toshiba,Non Ducted,Single Split System,Cassette,4.49,0
+ RAV-SM2242DT-E  +  RAV-SM2244AT8-A,Toshiba,Ducted,Single Split System,,5.1,0
+ RAV-SM2802DT-E  + RAV-SM2804AT8-A,Toshiba,Ducted,Single Split System,,6.2,0
+ RAV-SM564BT-E + RAV-SP564AT-A,Toshiba,Ducted,Single Split System,,1.39,0
+ RAV-SM564CT-E + RAV-SP564AT-A,Toshiba,Non Ducted,Single Split System,Under ceiling,1.39,0
+ RAV-SM564MUT-E + RAV-SP564AT-A,Toshiba,Non Ducted,Single Split System,Cassette,1.39,0
+ RAV-SM564UT-E + RAV-SM563AT-A,Toshiba,Non Ducted,Single Split System,Cassette,1.65,0
+ RAV-SM564UT-E + RAV-SP564AT-A,Toshiba,Non Ducted,Single Split System,Cassette,1.47,0
+ RAV-SM566KRT-A + RAV-SP564AT-A,Toshiba,Non Ducted,Single Split System,Wall Hung,1.44,2.25
+ RAV-SM804BT-E + RAV-SP804AT-A,Toshiba,Ducted,Single Split System,,1.91,0
+ RAV-SM804BT-E x2 + RAV-SP1404AT-A,Toshiba,Ducted,Double/Triple Split,,3.83,0
+ RAV-SM804CT-E + RAV-SP804AT-A,Toshiba,Non Ducted,Single Split System,Under ceiling,1.91,0
+ RAV-SM804UT-E + RAV-SM803AT-A,Toshiba,Non Ducted,Single Split System,Cassette,1.84,0
+ RAV-SM804UT-E + RAV-SP804AT-A,Toshiba,Non Ducted,Single Split System,Cassette,1.86,0
+ RAV-SM806KRT-A + RAV-SP804AT-A,Toshiba,Non Ducted,Single Split System,Wall Hung,1.91,1.5
+MCY-MAP0401HT + MMU-AP0184HP-E x 2,Toshiba,Non Ducted,Multiple split - VRF,,2.88,0
+MCY-MAP0501HT + MMU-AP0244HP-E x 2,Toshiba,Non Ducted,Multiple split - VRF,,3.542,0
+MCY-MHP0404HT-A + (MMU-AP0092H x 2 / MMU-AP0182H),Toshiba,Non Ducted,Multiple split - VRF,,2.948,0
+MCY-MHP0504HT-A (MMU-AP0092H x 2 /  MMU-AP0122H / MMU-AP0152H),Toshiba,Non Ducted,Multiple split - VRF,,3.586,0
+MCY-MHP0604HT-A (MMU-AP0092H x 2 / MMU-AP0152H / MMU-AP0182H),Toshiba,Non Ducted,Multiple split - VRF,,4.441,0
+MMY-MAP0804FT8-A + (MMU-AP0184HP-E x 4),Toshiba,Non Ducted,Multiple split - VRF,,5.44,0
+MMY-MAP0804HT8P + MMU-AP0184HP-E x 4,Toshiba,Non Ducted,Multiple split - VRF,,5.51,0
+MMY-MAP1004FT8-A + (MMU-AP0184HP-E x 3 + MMU-AP0364HP-E x 1),Toshiba,Non Ducted,Multiple split - VRF,,7.83,0
+MMY-MAP1004HT8P + (MMU-AP0184HP-E x 3 / MMU-AP0364HP-E),Toshiba,Non Ducted,Multiple split - VRF,,7.58,0
+MMY-MAP1204FT8-A + (MMU-AP0184HP-E x 2 + MMU-AP0364HP-E x 2),Toshiba,Non Ducted,Multiple split - VRF,,8.87,0
+MMY-MAP1204HT8P + (MMU-AP0184HP-Ex 2) + (MMU-AP0364HP-E x 2),Toshiba,Non Ducted,Multiple split - VRF,,9.78,0
+MMY-MAP1404FT8-A + (MMU-AP0184HP-E x 1 + MMU-AP0364HP-E x 3),Toshiba,Non Ducted,Multiple split - VRF,,12.29,0
+MMY-MAP1404HT8P + (MMU-AP0184HP-E / MMU-AP0364HP-E x 3),Toshiba,Non Ducted,Multiple split - VRF,,11.79,0
+MMY-MAP1604HT8P + MMU-AP0364HP-E x 4,Toshiba,Non Ducted,Multiple split - VRF,,14.05,0
+RAC-07B-A,TOSHIBA,Non Ducted,Window Wall,,0.73,0
+RAC-07E-A,TOSHIBA,Non Ducted,Window Wall,,0.67,0
+RAC-09B-A-1,TOSHIBA,Non Ducted,Window Wall,,0.97,0
+RAC-09BH-A-1,TOSHIBA,Non Ducted,Window Wall,,1.05,0
+RAC-09E-A,TOSHIBA,Non Ducted,Window Wall,,0.94,0
+RAC-12BH-A-1,TOSHIBA,Non Ducted,Window Wall,,1.38,0
+RAC-13B-A-1,TOSHIBA,Non Ducted,Window Wall,,1.46,0
+RAC-13E-A,TOSHIBA,Non Ducted,Window Wall,,1.27,0
+RAC-18B-A-1,TOSHIBA,Non Ducted,Window Wall,,2.42,0
+RAC-18BH-A-1,TOSHIBA,Non Ducted,Window Wall,,2.03,0
+RAC-24B-A,TOSHIBA,Non Ducted,Window Wall,,3.3,0
+RAS-07KH-E / 07YAH-E,TOSHIBA,Non Ducted,Single Split System,,0.7,0
+RAS-07PKVP-E/PAVP-E,TOSHIBA,Non Ducted,Single Split System,Wall Hung,0.355,5.75
+RAS-07UK-E(A)/07UA-E,TOSHIBA,Non Ducted,Single Split System,,0.64,0
+RAS-07UKH-E(A)/07UAH-E,TOSHIBA,Non Ducted,Single Split System,,0.76,0
+RAS-07UKP-ES/07UA-ES,TOSHIBA,Non Ducted,Single Split System,,0.68,0
+RAS-07YK-E / 07YA-E,TOSHIBA,Non Ducted,Single Split System,,0.65,0
+RAS-10G2KVP-A + RAS-10G2AVP-A,Toshiba,Non Ducted,Single Split System,Wall Hung,0.49,5.5
+RAS-10GKHP-AS2/RAS-10GAH-AS2,TOSHIBA,Non Ducted,Single Split System,,0.85,0
+RAS-10GKP-AS2/RAS-10GA-AS2,TOSHIBA,Non Ducted,Single Split System,,0.85,0
+RAS-10JKVP-E/RAS-10JAVP-E,TOSHIBA,Non Ducted,Single Split System,,0.57,0
+RAS-10N3KV2-A +RAS-10N3AV2-A,Toshiba,Non Ducted,Single Split System,Wall Hung,0.6,3.25
+RAS-10N3KV2-A1/RAS-10N3AV2-A1,TOSHIBA,Non Ducted,Single Split System,Wall Hung,0.6,3.25
+RAS-10N3KVP-A + RAS-10N3AVP-A,Toshiba,Non Ducted,Single Split System,Wall Hung,0.49,4.5
+RAS-10NKHP-A2/RAS-10N2AH-A2,TOSHIBA,Non Ducted,Single Split System,,0.87,0
+RAS-10NKHP-AS/RAS-10NAH-AS,TOSHIBA,Non Ducted,Single Split System,,0.85,0
+RAS-10NKHP-AS/RAS-10NAH-AS,TOSHIBA,Non Ducted,Single Split System,,0.85,0
+RAS-10NKHP-E/RAS-10UAH-E4,TOSHIBA,Non Ducted,Single Split System,,0.98,0
+RAS-10NKP-A2/RAS-10N2A-AS2,TOSHIBA,Non Ducted,Single Split System,,0.85,0
+RAS-10NKP-AS/RAS-10NA-AS,TOSHIBA,Non Ducted,Single Split System,,0.85,0
+RAS-10NKV-A/RAS-10NAV-A,TOSHIBA,Non Ducted,Single Split System,,0.76,0
+RAS-10NKV-A2/RAS-10NAV-A2,TOSHIBA,Non Ducted,Single Split System,,0.76,0
+RAS-10PKVP-E/PAVP-E,TOSHIBA,Non Ducted,Single Split System,Wall Hung,0.475,5.25
+RAS-10SKV2-A + RAS-10SAVR-A,Toshiba,Non Ducted,Single Split System,Wall Hung,0.6,3.25
+RAS-10SKVP2-A + RAS-10SAVP2-A,Toshiba,Non Ducted,Single Split System,Wall Hung,0.49,4.5
+RAS-10SKVP2-A + RAS-10SAVP2-A,Toshiba,Non Ducted,Single Split System,Wall Hung,0.49,4.5
+RAS-10SKVP2-A/RAS-10SAVP2-A,TOSHIBA,Non Ducted,Single Split System,Wall Hung,0.49,4.5
+RAS-10SKVR-A + RAS-10SAVR-A,TOSHIBA,Non Ducted,Single Split System,Wall Hung,0.6,3.25
+RAS-10SKVR-E2+ RAS-10SAVR-E2,Toshiba,Non Ducted,Single Split System,Wall Hung,0.6,3.25
+RAS-10UK-E(A)/10UA-E,TOSHIBA,Non Ducted,Single Split System,,0.85,0
+RAS-10UK-E/RAS-10UA-E,TOSHIBA,Non Ducted,Single Split System,,0.85,0
+RAS-10UK-E2/RAS-10UA-E2,TOSHIBA,Non Ducted,Single Split System,,0.85,0
+RAS-10UKH-E(A)/10UAH-E,TOSHIBA,Non Ducted,Single Split System,,1.05,0
+RAS-10UKH-E/RAS-10UAH-E,TOSHIBA,Non Ducted,Single Split System,,1.05,0
+RAS-10UKH-E2/RAS-10UAH-E2,TOSHIBA,Non Ducted,Single Split System,,1.05,0
+RAS-10UKH-E3/RAS-10UAH-E3,TOSHIBA,Non Ducted,Single Split System,,1.05,0
+RAS-10UKHP-AS2/RAS-10UAH-AS2,TOSHIBA,Non Ducted,Single Split System,,0.84,0
+RAS-10UKHP-E/RAS-10UAH-E,TOSHIBA,Non Ducted,Single Split System,,1.05,0
+RAS-10UKP-AS2/RAS-10UA-AS2,TOSHIBA,Non Ducted,Single Split System,,0.84,0
+RAS-10UKP-E/RAS-10UA-E,TOSHIBA,Non Ducted,Single Split System,,0.85,0
+RAS-10UKP-ES/10UA-ES,TOSHIBA,Non Ducted,Single Split System,,0.83,0
+RAS-10UKV-E/RAS-10UAV-E,TOSHIBA,Non Ducted,Single Split System,,0.76,0
+RAS-10YK-E / 10YA-E,TOSHIBA,Non Ducted,Single Split System,,0.85,0
+RAS-10YKH-E / 10YAH-E,TOSHIBA,Non Ducted,Single Split System,,1.02,0
+RAS-10YKV-E/10YAV-E,TOSHIBA,Non Ducted,Single Split System,,0.72,0
+RAS-13G2KVP-A + RAS-13G2AVP-A,Toshiba,Non Ducted,Single Split System,Wall Hung,0.82,4
+RAS-13JKVP-E/RAS-13JAVP-E,TOSHIBA,Non Ducted,Single Split System,,0.95,0
+RAS-13N3KV2-A / RAS-13N3AV2-A,Toshiba,Non Ducted,Single Split System,Wall Hung,0.92,2.5
+RAS-13N3KV2-A1/RAS-13N3AV2-A,TOSHIBA,Non Ducted,Single Split System,Wall Hung,0.92,2.5
+RAS-13N3KVP-A / RAS-13N3AVP-A,Toshiba,Non Ducted,Single Split System,Wall Hung,0.84,3
+RAS-13NKHP-AS/RAS-13NAH-AS,TOSHIBA,Non Ducted,Single Split System,,1.19,0
+RAS-13NKHP-AS/RAS-13NAH-AS,TOSHIBA,Non Ducted,Single Split System,,1.19,0
+RAS-13NKHP-AS2/RAS-13N2AH-AS2,TOSHIBA,Non Ducted,Single Split System,,1.19,0
+RAS-13NKHP-E/RAS-13UAH-E4,TOSHIBA,Non Ducted,Single Split System,,1.27,0
+RAS-13NKP-AS/RAS-13NA-AS,TOSHIBA,Non Ducted,Single Split System,,1.23,0
+RAS-13NKP-AS/RAS-13NA-AS,TOSHIBA,Non Ducted,Single Split System,,1.23,0
+RAS-13NKP-AS2/RAS-13N2A-AS2,TOSHIBA,Non Ducted,Single Split System,,1.17,0
+RAS-13NKP-E/RAS-13UA-E4,TOSHIBA,Non Ducted,Single Split System,,1.28,0
+RAS-13NKV-A/RAS-13NAV-A,TOSHIBA,Non Ducted,Single Split System,,1.07,0
+RAS-13PKVP-E/PAVP-E,TOSHIBA,Non Ducted,Single Split System,Wall Hung,0.77,4.25
+RAS-13SKV2-A1 + RAS-13SAV2-A1,Toshiba,Non Ducted,Single Split System,Wall Hung,0.92,2.5
+RAS-13SKVP2-A + RAS-13SAVP2-A,Toshiba,Non Ducted,Single Split System,Wall Hung,0.84,3
+RAS-13SKVP2-A/RAS-13SAVP2-A,TOSHIBA,Non Ducted,Single Split System,Wall Hung,0.84,3
+RAS-13SKVR-A +RAS-13SAVR-A,TOSHIBA,Non Ducted,Single Split System,Wall Hung,1.02,2.25
+RAS-13UK-E(A)/13UA-E,TOSHIBA,Non Ducted,Single Split System,,1.29,0
+RAS-13UK-E2/RAS-13UA-E2,TOSHIBA,Non Ducted,Single Split System,,1.28,0
+RAS-13UK-E3/RAS-13UA-E3,TOSHIBA,Non Ducted,Single Split System,,1.28,0
+RAS-13UKH-E(A)/13UAH-E,TOSHIBA,Non Ducted,Single Split System,,1.32,0
+RAS-13UKH-E/RAS-13UAH-E,TOSHIBA,Non Ducted,Single Split System,,1.32,0
+RAS-13UKH-E2/RAS-13UAH-E2,TOSHIBA,Non Ducted,Single Split System,,1.32,0
+RAS-13UKH-E3/RAS-13UAH-E3,TOSHIBA,Non Ducted,Single Split System,,1.32,0
+RAS-13UKH-E3/RAS-13UAH-E3-1,TOSHIBA,Non Ducted,Single Split System,,1.27,0
+RAS-13UKHP-AS2/RAS-13UAH-AS2,TOSHIBA,Non Ducted,Single Split System,,1.12,0
+RAS-13UKHP-E/RAS-13UAH-E,TOSHIBA,Non Ducted,Single Split System,,1.32,0
+RAS-13UKP-AS2/RAS-13UA-AS2,TOSHIBA,Non Ducted,Single Split System,,1.17,0
+RAS-13UKP-ES/13UA-ES,TOSHIBA,Non Ducted,Single Split System,,1.29,0
+RAS-13UKV-E2/RAS-13UAV-E2,TOSHIBA,Non Ducted,Single Split System,,1.05,0
+RAS-13UKV-E3/RAS-13UAV-E3,TOSHIBA,Non Ducted,Single Split System,,1.07,0
+RAS-13YK-E / 13YA-E,TOSHIBA,Non Ducted,Single Split System,,1.29,0
+RAS-13YKH-E / 13YAH-E,TOSHIBA,Non Ducted,Single Split System,,1.3,0
+RAS-13YKV-E,TOSHIBA,Non Ducted,Single Split System,,1.2,0
+RAS-16G2KVP-A + RAS-16G2AVP-A,Toshiba,Non Ducted,Single Split System,Wall Hung,1.3,2.5
+RAS-16N3KV2-A + RAS-16N3AV2-A,Toshiba,Non Ducted,Single Split System,Wall Hung,1.34,1.75
+RAS-16N3KV2-A1/RAS-16N3AV2-A,TOSHIBA,Non Ducted,Single Split System,Wall Hung,1.34,1.75
+RAS-16N3KVP-A / RAS-16N3AVP-A,Toshiba,Non Ducted,Single Split System,Wall Hung,1.34,2
+RAS-16NKV-A/RAS-16NAV-A,TOSHIBA,Non Ducted,Single Split System,,1.62,0
+RAS-16PKVP-E/PAVP-E,TOSHIBA,Non Ducted,Single Split System,Wall Hung,1.22,2.75
+RAS-16SKV2-A1 + RAS-16SAV2-A1,Toshiba,Non Ducted,Single Split System,Wall Hung,1.34,1.75
+RAS-16SKVP2-A + RAS-16SAVP2-A,Toshiba,Non Ducted,Single Split System,Wall Hung,1.34,2
+RAS-16SKVP2-A/RAS-16SAVP2-A,TOSHIBA,Non Ducted,Single Split System,Wall Hung,1.34,2
+RAS-16SKVR-A + RAS-16SAVR-A,TOSHIBA,Non Ducted,Single Split System,Wall Hung,1.41,2
+RAS-18N3KV2-A + RAS-18N3AV2-A,Toshiba,Non Ducted,Single Split System,Wall Hung,1.42,2.25
+RAS-18N3KV2-A1/RAS-18N3AV2-A1,TOSHIBA,Non Ducted,Single Split System,Wall Hung,1.42,2.25
+RAS-18NKHP-A/RAS-18NAH-A,TOSHIBA,Non Ducted,Single Split System,,2.04,0
+RAS-18NKHP-AS/RAS-18NAH-AS,TOSHIBA,Non Ducted,Single Split System,,1.9,0
+RAS-18NKHP-AS/RAS-18NAH-AS,TOSHIBA,Non Ducted,Single Split System,,1.9,0
+RAS-18NKP-A/RAS-18NA-A,TOSHIBA,Non Ducted,Single Split System,,1.99,0
+RAS-18NKP-AS/RAS-18NA-AS,TOSHIBA,Non Ducted,Single Split System,,1.96,0
+RAS-18PKVP-E/PAVP-E,TOSHIBA,Non Ducted,Single Split System,Wall Hung,1.49,2.5
+RAS-18SKV-A + RAS-18SAV2-A,Toshiba,Non Ducted,Single Split System,Wall Hung,1.42,2.25
+RAS-18SKVR-A + RAS-18SAV2-A,TOSHIBA,Non Ducted,Single Split System,Wall Hung,1.42,2.25
+RAS-18UFHP-ES/RAS-18UAH-AS2,TOSHIBA,Non Ducted,Single Split System,,2.01,0
+RAS-18UFP-ES/RAS-18UA-AS2,TOSHIBA,Non Ducted,Single Split System,,1.925,0
+RAS-18UK-A2/RAS-18UA-A2,TOSHIBA,Non Ducted,Single Split System,,1.98,0
+RAS-18UK-A3/RAS-18UA-A3,TOSHIBA,Non Ducted,Single Split System,,1.99,0
+RAS-18UK-E / 18UA-EA,TOSHIBA,Non Ducted,Single Split System,,1.98,0
+RAS-18UK-E(A)/18UA-EA,TOSHIBA,Non Ducted,Single Split System,,1.98,0
+RAS-18UKH-A2/RAS-18UAH-A2,TOSHIBA,Non Ducted,Single Split System,,2.04,0
+RAS-18UKH-A3/RAS-18UAH-A3,TOSHIBA,Non Ducted,Single Split System,,2.04,0
+RAS-18UKH-E / 18UAH-EA,TOSHIBA,Non Ducted,Single Split System,,2.04,0
+RAS-18UKH-E(A)/18UAH-EA,TOSHIBA,Non Ducted,Single Split System,,2.04,0
+RAS-18UKHP-AS2/RAS-18UAH-AS2,TOSHIBA,Non Ducted,Single Split System,,1.9,0
+RAS-18UKHP-AS3/RAS-18UAH-AS3,TOSHIBA,Non Ducted,Single Split System,,1.9,0
+RAS-18UKHP-E / 18UAH-EA,TOSHIBA,Non Ducted,Single Split System,,2.04,0
+RAS-18UKHP-ES/18UAH-ES,TOSHIBA,Non Ducted,Single Split System,,1.9,0
+RAS-18UKP-AS2/RAS-18UA-AS2,TOSHIBA,Non Ducted,Single Split System,,1.87,0
+RAS-18UKP-AS3/RAS-18UA-AS3,TOSHIBA,Non Ducted,Single Split System,,1.96,0
+RAS-18UKP-E / 18UA-EA,TOSHIBA,Non Ducted,Single Split System,,1.98,0
+RAS-18UKP-ES/18UA-ES,TOSHIBA,Non Ducted,Single Split System,,1.87,0
+RAS-22N3KV2-A / RAS-22N3AV2-A,Toshiba,Non Ducted,Single Split System,Wall Hung,1.83,1.75
+RAS-22N3KV2-A1/RAS-22N3AV2-A,TOSHIBA,Non Ducted,Single Split System,Wall Hung,1.83,1.75
+RAS-22SKV-E/ RAS-22SAV-E,TOSHIBA,Non Ducted,Single Split System,Wall Hung,2,0
+RAS-22SKV2-A1 + RAS-22SAV2-A1,Toshiba,Non Ducted,Single Split System,Wall Hung,1.83,1.75
+RAS-22SKVR-A+RAS-22SAV2-A,TOSHIBA,Non Ducted,Single Split System,Wall Hung,2,1.5
+RAS-22SKVR/SAV-E,TOSHIBA,Non Ducted,Single Split System,Wall Hung,2,0
+RAS-24N3KV2-A + RAS-24N3AV2-A,Toshiba,Non Ducted,Single Split System,Wall Hung,2.25,1.5
+RAS-24N3KV2-A1/RAS-24N3AV2-A,TOSHIBA,Non Ducted,Single Split System,Wall Hung,2.25,1.5
+RAS-24NKHP-A/RAS-24NAH-A,TOSHIBA,Non Ducted,Single Split System,,2.6,0
+RAS-24NKHP-AS/RAS-24NAH-AS,TOSHIBA,Non Ducted,Single Split System,,2.76,0
+RAS-24NKHP-AS/RAS-24NAH-AS,TOSHIBA,Non Ducted,Single Split System,,2.76,0
+RAS-24NKP-A/RAS-24NA-A,TOSHIBA,Non Ducted,Single Split System,,2.44,0
+RAS-24NKP-AS/RAS-24NA-AS,TOSHIBA,Non Ducted,Single Split System,,2.69,0
+RAS-24SKV2-A + RAS-24SAV2-A,TOSHIBA,Non Ducted,Single Split System,Wall Hung,2.33,1.5
+RAS-24SKV2-A +RAS-24SAV2-A,Toshiba,Non Ducted,Single Split System,Wall Hung,2.33,1.5
+RAS-24UK-A-1/RAS-24UA-A-1,TOSHIBA,Non Ducted,Single Split System,,2.44,0
+RAS-24UK-A3/RAS-24UA-A3,TOSHIBA,Non Ducted,Single Split System,,2.44,0
+RAS-24UK-E / 24UA-EA,TOSHIBA,Non Ducted,Single Split System,,2.44,0
+RAS-24UK-E(A)/24UA-EA,TOSHIBA,Non Ducted,Single Split System,,2.44,0
+RAS-24UKH-A-1/RAS-24UAH-A-1,TOSHIBA,Non Ducted,Single Split System,,2.6,0
+RAS-24UKH-A3 / RAS24UAH-A3,TOSHIBA,Non Ducted,Single Split System,,2.51,0
+RAS-24UKH-A3/RAS-24UAH-A3,TOSHIBA,Non Ducted,Single Split System,,2.6,0
+RAS-24UKH-E / 24UAH-EA,TOSHIBA,Non Ducted,Single Split System,,2.6,0
+RAS-24UKH-E(A)/24UAH-EA,TOSHIBA,Non Ducted,Single Split System,,2.6,0
+RAS-24UKHP-AS-1/RAS-24UAH-AS-1,TOSHIBA,Non Ducted,Single Split System,,2.51,0
+RAS-24UKHP-AS3/RAS-24UAH-AS3,TOSHIBA,Non Ducted,Single Split System,,2.51,0
+RAS-24UKHP-E / 24UAH-EA,TOSHIBA,Non Ducted,Single Split System,,2.6,0
+RAS-24UKHP-ES/24UAH-ES,TOSHIBA,Non Ducted,Single Split System,,2.51,0
+RAS-24UKP-AS-1/RAS-24UA-AS-1,TOSHIBA,Non Ducted,Single Split System,,2.44,0
+RAS-24UKP-AS3/RAS-24UA-AS3,TOSHIBA,Non Ducted,Single Split System,,2.69,0
+RAS-24UKP-E / 24UA-EA,TOSHIBA,Non Ducted,Single Split System,,2.44,0
+RAS-24UKP-ES/24UA-ES,TOSHIBA,Non Ducted,Single Split System,,2.44,0
+RAS-26NKHP-A/RAS-26NAH-A,TOSHIBA,Non Ducted,Single Split System,,2.9,0
+RAS-28NKHP-A/RAS-28NAH-A,TOSHIBA,Non Ducted,Single Split System,,3.45,0
+RAS-3M26S3AV-A / (RAS-B16N3KV2-E1 x 2 + RAS-B13N3KV2-E1),Toshiba,Non Ducted,Multiple split - Fixed head,,2,0
+RAS-3M26UAV-A + (RAS-M13SKV-E + RAS-M16SKV-E x 2),Toshiba,Non Ducted,Multiple split - Fixed head,,2,0
+RAS-3M26UAV-E + (RAS-M16SKV-E x 2 / RAS-M13SKV-E),Toshiba,Non Ducted,Multiple split - Fixed head,,2,0
+RAS-4M27S3AV-A / (RAS-B13N3KV2-E1 x 4),Toshiba,Non Ducted,Multiple split - Fixed head,,2.29,0
+RAS-4M27UAV-A + (RAS-M13SKV-E x 4),Toshiba,Non Ducted,Multiple split - Fixed head,,2.29,0
+RAS-4M27UAV-E + (RAS-M13SKV-E x 4),Toshiba,Non Ducted,Multiple split - Fixed head,,2.29,0
+RAS-5M34S3AV-A / (RAS-B13N3KV2-E1 x 5),Toshiba,Non Ducted,Multiple split - Fixed head,,2.98,0
+RAS-5M34UAV-A + (RAS-M13SKV-E x 5),Toshiba,Non Ducted,Multiple split - Fixed head,,2.92,0
+RAS-5M34UAV-E1 + (RAS-M13SKV-E x 5),Toshiba,Non Ducted,Multiple split - Fixed head,,2.92,0
+RAS-B10GKVP-E/RAS-10GAVP-E,TOSHIBA,Non Ducted,Single Split System,,0.55,0
+RAS-B10GKVP-E/RAS-10GAVP-E,TOSHIBA,Non Ducted,Single Split System,,0.55,0
+RAS-B10UFV-A & RAS-10SAVR-A,TOSHIBA,Non Ducted,Single Split System,Floor Mounted,0.6,3.25
+RAS-B10UFV-A + RAS-10SAVR-A,TOSHIBA,Non Ducted,Single Split System,Floor Mounted,0.6,3.25
+RAS-B13GKVP-E/RAS-13GAVP-E,TOSHIBA,Non Ducted,Single Split System,,0.92,0
+RAS-B13GKVP-E/RAS-13GAVP-E,TOSHIBA,Non Ducted,Single Split System,,0.92,0
+RAS-B13UFV-A & RAS-13SAVR-A2,TOSHIBA,Non Ducted,Single Split System,Floor Mounted,1.02,2
+RAS-B13UFV-A + RAS-13SAVR-A2,TOSHIBA,Non Ducted,Single Split System,Floor Mounted,1.02,2
+RAS-B16GKVP-E/RAS-16GAVP-E,TOSHIBA,Non Ducted,Single Split System,,1.38,0
+RAS-B16GKVP-E/RAS-16GAVP-E,TOSHIBA,Non Ducted,Single Split System,,1.38,0
+RAS-B16UFV-A & RAS-16UAVR-A,TOSHIBA,Non Ducted,Single Split System,Floor Mounted,1.45,1.75
+RAS-B16UFV-A & RAS-16UAVR-A,TOSHIBA,Non Ducted,Single Split System,Floor Mounted,1.45,1.75
+RAS-B18UFV-A & RAS-18SAV2-A,TOSHIBA,Non Ducted,Single Split System,Floor Mounted,1.63,1.25
+RAS-B18UFV-A + RAS-18SAV2-A,TOSHIBA,Non Ducted,Single Split System,Floor Mounted,1.63,1.25
+RAS-B18UFV-A/RAS-18SAV2-A,TOSHIBA,Non Ducted,Single Split System,Floor Mounted,1.63,1.25
+RAS-M18UAV-E + (RAS-M16SKV-E + RAS-M13SKV-E),Toshiba,Non Ducted,Multiple split - Fixed head,,1.44,0
+RAS-SM562MUT-E/RAS-SM562AT-E,TOSHIBA,Non Ducted,Single Split System,,1.61,0
+RAS-SM562MUT-E/RAS-SP562AT-E,TOSHIBA,Non Ducted,Single Split System,,1.53,0
+RAV-SM1100UT-E/RAV-SM1100AT-E,TOSHIBA,Non Ducted,Single Split System,,3.52,0
+RAV-SM1101CT-E/RAV-SM1100AT-E,TOSHIBA,Non Ducted,Single Split System,,3.51,0
+RAV-SM1102BT-E + RAV-SP1104AT-E,TOSHIBA,Ducted,Single Split System,,2.94,0
+RAV-SM1102BT-E/RAV-SM1102AT-E,TOSHIBA,Ducted,Single Split System,,3.56,0
+RAV-SM1102BT-E/RAV-SM1102AT-E,TOSHIBA,Ducted,Single Split System,,3.56,0
+RAV-SM1102BT-E/RAV-SP1102AT-E,TOSHIBA,Ducted,Single Split System,,2.5,0
+RAV-SM1102BT-E/RAV-SP1102AT-E,TOSHIBA,Ducted,Single Split System,,2.5,0
+RAV-SM1102CT-E + RAV-SP1104AT-E,TOSHIBA,Non Ducted,Single Split System,Under ceiling,2.67,0
+RAV-SM1102CT-E/RAV-SM1102AT-E,TOSHIBA,Non Ducted,Single Split System,,3.51,0
+RAV-SM1102CT-E/RAV-SM1102AT-E,TOSHIBA,Non Ducted,Single Split System,,3.51,0
+RAV-SM1102CT-E/RAV-SP1102AT-E,TOSHIBA,Non Ducted,Single Split System,,2.4,0
+RAV-SM1102CT-E/RAV-SP1102AT-E,TOSHIBA,Non Ducted,Single Split System,,2.4,0
+RAV-SM1102UT-E/RAV-SM1102AT-E,TOSHIBA,Non Ducted,Single Split System,,3.52,0
+RAV-SM1102UT-E/RAV-SM1102AT-E,TOSHIBA,Non Ducted,Single Split System,,3.52,0
+RAV-SM1103DT-A / RAV-SP1104AT-A1,Toshiba,Ducted,Single Split System,,3.15,0
+RAV-SM1103DT-A + RAV-SP1104AT-A,Toshiba,Ducted,Single Split System,,3.15,0
+RAV-SM1103DT-A + RAV-SP1104AT-E,TOSHIBA,Ducted,Single Split System,,3.15,0
+RAV-SM1104CT-E + RAV-SP1104AT-A,Toshiba,Non Ducted,Single Split System,Under ceiling,2.67,0
+RAV-SM1104UT-E + RAV-SM1103AT-E,TOSHIBA,Non Ducted,Single Split System,Cassette,3.11,0
+RAV-SM1104UT-E + RAV-SP1104AT-E,TOSHIBA,Non Ducted,Single Split System,Cassette,2.21,0
+RAV-SM1104UTP-E / RAV-SP1104AT-A1,Toshiba,Non Ducted,Single Split System,Cassette,2.21,0
+RAV-SM1104UTP-E + RAV-SM1104ATP-A1,Toshiba,Non Ducted,Single Split System,Cassette,3.02,0
+RAV-SM1104UTP-E + RAV-SP1104AT-A,Toshiba,Non Ducted,Single Split System,Cassette,2.21,0
+RAV-SM1106BTP-E / RAV-SP1104AT-A1,Toshiba,Ducted,Single Split System,,2.64,0
+RAV-SM1106BTP-E + RAV-SP1104AT-A,Toshiba,Ducted,Single Split System,,2.64,0
+RAV-SM1107CTP-E / RAV-SP1104AT-A1,Toshiba,Non Ducted,Single Split System,Under ceiling,2.45,0
+RAV-SM1107CTP-E + RAV-SP1104AT-A,Toshiba,Non Ducted,Single Split System,Under ceiling,2.45,0
+RAV-SM1401CT-E/RAV-SM1400AT-E,TOSHIBA,Non Ducted,Single Split System,,4.52,0
+RAV-SM1402BT-E/RAV-SM1402AT-E,TOSHIBA,Ducted,Single Split System,,4.42,0
+RAV-SM1402BT-E/RAV-SM1402AT-E,TOSHIBA,Ducted,Single Split System,,4.42,0
+RAV-SM1402BT-E/RAV-SP1402AT-E,TOSHIBA,Ducted,Single Split System,,3.9,0
+RAV-SM1402BT-E/RAV-SP1402AT-E,TOSHIBA,Ducted,Single Split System,,3.9,0
+RAV-SM1402BT-E+ RAV-SP1404AT-E,TOSHIBA,Ducted,Single Split System,,3.83,0
+RAV-SM1402CT-E + RAV-SP1404AT-E,TOSHIBA,Non Ducted,Single Split System,Under ceiling,3.73,0
+RAV-SM1402CT-E/RAV-SM1402AT-E,TOSHIBA,Non Ducted,Single Split System,,4.52,0
+RAV-SM1402CT-E/RAV-SM1402AT-E,TOSHIBA,Non Ducted,Single Split System,,4.52,0
+RAV-SM1402CT-E/RAV-SP1402AT-E,TOSHIBA,Non Ducted,Single Split System,,3.9,0
+RAV-SM1402CT-E/RAV-SP1402AT-E,TOSHIBA,Non Ducted,Single Split System,,3.9,0
+RAV-SM1402UT-E/RAV-SM1402AT-E,TOSHIBA,Non Ducted,Single Split System,,4.09,0
+RAV-SM1402UT-E/RAV-SM1402AT-E,TOSHIBA,Non Ducted,Single Split System,,4.09,0
+RAV-SM1403DT-A / RAV-SP1404AT-A1,Toshiba,Ducted,Single Split System,,3.66,0
+RAV-SM1403DT-A + RAV-SP1404AT-E,TOSHIBA,Ducted,Single Split System,,4.32,0
+RAV-SM1404CT-E + RAV-SP1404AT8-A,Toshiba,Non Ducted,Single Split System,Under ceiling,3.83,0
+RAV-SM1404UT-E + RAV-SM1403AT-E,TOSHIBA,Non Ducted,Single Split System,Cassette,3.74,0
+RAV-SM1404UT-E + RAV-SP1404AT-E,TOSHIBA,Non Ducted,Single Split System,Cassette,3.16,0
+RAV-SM1404UTP-E / RAV-SP1404AT-A1,Toshiba,Non Ducted,Single Split System,Cassette,3.16,0
+RAV-SM1404UTP-E / RAV-SP1404AT8-A1,Toshiba,Non Ducted,Single Split System,Cassette,3.46,0
+RAV-SM1404UTP-E + RAV-SM1403AT-A,Toshiba,Non Ducted,Single Split System,Cassette,3.35,0
+RAV-SM1404UTP-E + RAV-SM1404ATP-A1,Toshiba,Non Ducted,Single Split System,Cassette,3.6,0
+RAV-SM1404UTP-E + RAV-SP1404AT-A,Toshiba,Non Ducted,Single Split System,Cassette,3.16,0
+RAV-SM1404UTP-E + RAV-SP1404AT8-A,Toshiba,Non Ducted,Single Split System,Cassette,3.46,0
+RAV-SM1406BT-E + RAV-SP1404AT-A,Toshiba,Ducted,Single Split System,,3.83,0
+RAV-SM1406BT-E+  RAV-SP1404AT8-A,Toshiba,Ducted,Single Split System,,3.86,0
+RAV-SM1406BTP-E / RAV-SP1404AT-A1,Toshiba,Ducted,Single Split System,,3.83,0
+RAV-SM1406BTP-E / RAV-SP1404AT8-A1,Toshiba,Ducted,Single Split System,,3.86,0
+RAV-SM1406BTP-E + RAV-SP1404AT-A,Toshiba,Ducted,Single Split System,,3.83,0
+RAV-SM1406BTP-E + RAV-SP1404AT8-A,Toshiba,Ducted,Single Split System,,3.86,0
+RAV-SM1407CTP-E / RAV-SP1404AT-A1,Toshiba,Non Ducted,Single Split System,Under ceiling,3.9,0
+RAV-SM1407CTP-E / RAV-SP1404AT8-A1,Toshiba,Non Ducted,Single Split System,Under ceiling,3.72,0
+RAV-SM1407CTP-E + RAV-SP1404AT-A,Toshiba,Non Ducted,Single Split System,Under ceiling,3.9,0
+RAV-SM1407CTP-E + RAV-SP1404AT8-A,Toshiba,Non Ducted,Single Split System,Under ceiling,3.72,0
+RAV-SM1603DT-A / RAV-SP1604AT8-A1,Toshiba,Ducted,Single Split System,,4.12,0
+RAV-SM1603DT-A & RAV-SM1603AT-E,TOSHIBA,Ducted,Single Split System,,5.01,0
+RAV-SM1603DT-A + RAV-SM1603AT-A,Toshiba,Ducted,Single Split System,,4.1,0
+RAV-SM1603DT-A+ RAV-SM1603AT-E,TOSHIBA,Ducted,Single Split System,,5.01,0
+RAV-SM1604UT-E + RAV-SM1603AT-E,TOSHIBA,Non Ducted,Single Split System,Cassette,4.49,0
+RAV-SM1604UT-E + RAV-SP1604AT8-A,Toshiba,Non Ducted,Single Split System,Cassette,4.49,0
+RAV-SM1604UTP-E / RAV-SM1603AT-A1,Toshiba,Non Ducted,Single Split System,Cassette,4.49,0
+RAV-SM1604UTP-E / RAV-SP1604AT8-A1,Toshiba,Non Ducted,Single Split System,Cassette,4.49,0
+RAV-SM1604UTP-E + RAV-SM1603AT-A,Toshiba,Non Ducted,Single Split System,Cassette,4.49,0
+RAV-SM1604UTP-E + RAV-SP1604AT8-A,Toshiba,Non Ducted,Single Split System,Cassette,4.49,0
+RAV-SM1607CTP-E / RAV-SP1604AT8-A1,Toshiba,Non Ducted,Single Split System,Under ceiling,4.24,0
+RAV-SM1607CTP-E + RAV-SP1604AT8-A,Toshiba,Non Ducted,Single Split System,Under ceiling,4.24,0
+RAV-SM2242DT-E  +  RAV-SM2244AT8-A,TOSHIBA,Ducted,Single Split System,,5.1,0
+RAV-SM2242DT-E / RAV-SM2244AT8-A1,Toshiba,Ducted,Single Split System,,5.1,0
+RAV-SM2802DT-E / RAV-SM2804AT8-A1,Toshiba,Ducted,Single Split System,,6.2,0
+RAV-SM2802DT-E+ RAV-SM2804AT8-A,TOSHIBA,Ducted,Single Split System,,6.2,0
+RAV-SM307KRTP-A / RAV-SM304ATP-A,Toshiba,Non Ducted,Single Split System,Wall Hung,0.61,2.75
+RAV-SM407KRTP-A / RAV-SM404ATP-A,Toshiba,Non Ducted,Single Split System,Wall Hung,0.78,2.5
+RAV-SM560BT-E/RAV-SM560AT-E,TOSHIBA,Non Ducted,Single Split System,,1.92,0
+RAV-SM560KRT-E/RAV-SM560AT-E,TOSHIBA,Non Ducted,Single Split System,,1.74,0
+RAV-SM560UT-E/RAV-SM560AT-E,TOSHIBA,Non Ducted,Single Split System,,1.76,0
+RAV-SM560XT-E/RAV-SM560AT-E,TOSHIBA,Non Ducted,Single Split System,,1.87,0
+RAV-SM560XT-E/RAV-SM561AT-E,TOSHIBA,Non Ducted,Single Split System,,1.87,0
+RAV-SM560XT-E/RAV-SM561AT-E,TOSHIBA,Non Ducted,Single Split System,,1.87,0
+RAV-SM561CT-E/RAV-SM560AT-E,TOSHIBA,Non Ducted,Single Split System,,1.82,0
+RAV-SM561CT-E/RAV-SM561AT-E,TOSHIBA,Non Ducted,Single Split System,,1.82,0
+RAV-SM561CT-E/RAV-SM561AT-E,TOSHIBA,Non Ducted,Single Split System,,1.82,0
+RAV-SM561KRT-E/RAV-SM560AT-E,TOSHIBA,Non Ducted,Single Split System,,1.74,0
+RAV-SM562BT-E + RAV-SP564AT-E,TOSHIBA,Ducted,Single Split System,,1.56,0
+RAV-SM562BT-E/RAV-SM562AT-E,TOSHIBA,Ducted,Single Split System,,1.78,0
+RAV-SM562BT-E/RAV-SM562AT-E,TOSHIBA,Ducted,Single Split System,,1.78,0
+RAV-SM562CT-E + RAV-SP564AT-E,TOSHIBA,Non Ducted,Single Split System,Under ceiling,1.56,0
+RAV-SM562CT-E/RAV-SM562AT-E,TOSHIBA,Non Ducted,Single Split System,,1.82,0
+RAV-SM562CT-E/RAV-SM562AT-E,TOSHIBA,Non Ducted,Single Split System,,1.82,0
+RAV-SM562CT-E/RAV-SP562AT-E,TOSHIBA,Non Ducted,Single Split System,,1.41,0
+RAV-SM562CT-E/RAV-SP562AT-E,TOSHIBA,Non Ducted,Single Split System,,1.41,0
+RAV-SM562KRT-E/RAV-SM560AT-E,TOSHIBA,Non Ducted,Single Split System,,1.39,0
+RAV-SM562KRT-E/RAV-SM560AT-E,TOSHIBA,Non Ducted,Single Split System,,1.39,0
+RAV-SM562KRT-E/RAV-SM561AT-E,TOSHIBA,Non Ducted,Single Split System,,1.74,0
+RAV-SM562KRT-E/RAV-SM561AT-E,TOSHIBA,Non Ducted,Single Split System,,1.74,0
+RAV-SM562KRT-E/RAV-SM562AT-E,TOSHIBA,Non Ducted,Single Split System,,1.74,0
+RAV-SM562KRT-E/RAV-SM562AT-E,TOSHIBA,Non Ducted,Single Split System,,1.74,0
+RAV-SM562KRT-E/RAV-SP562AT-E,TOSHIBA,Non Ducted,Single Split System,,1.39,0
+RAV-SM562KRT-E/RAV-SP562AT-E,TOSHIBA,Non Ducted,Single Split System,,1.39,0
+RAV-SM562MUT-E + RAV-SM563AT-E,TOSHIBA,Non Ducted,Single Split System,Cassette,1.61,0
+RAV-SM562MUT-E + RAV-SP564AT-E,TOSHIBA,Non Ducted,Single Split System,Cassette,1.56,0
+RAV-SM562UT-E/RAV-SM562AT-E,TOSHIBA,Non Ducted,Single Split System,,1.76,0
+RAV-SM562UT-E/RAV-SM562AT-E,TOSHIBA,Non Ducted,Single Split System,,1.76,0
+RAV-SM562UT-E/RAV-SP562AT-E,TOSHIBA,Non Ducted,Single Split System,,1.53,0
+RAV-SM562UT-E/RAV-SP562AT-E,TOSHIBA,Non Ducted,Single Split System,,1.53,0
+RAV-SM562XT-E/ RAV-SM562AT-E,TOSHIBA,Non Ducted,Single Split System,Wall Hung,1.87,0
+RAV-SM562XT-E/RAV-SM562AT-E,TOSHIBA,Non Ducted,Single Split System,,1.87,0
+RAV-SM562XT-E/RAV-SM562AT-E,TOSHIBA,Non Ducted,Single Split System,,1.87,0
+RAV-SM564CT-E + RAV-SP564ATP-A,Toshiba,Non Ducted,Single Split System,Under ceiling,1.39,0
+RAV-SM564MUT-E + RAV-SP564ATP-A,Toshiba,Non Ducted,Single Split System,Cassette,1.39,0
+RAV-SM564MUT-E + RAV-SP564ATP-A1,Toshiba,Non Ducted,Single Split System,Cassette,1.39,0
+RAV-SM564UT-E + RAV-SM563AT-E,TOSHIBA,Non Ducted,Single Split System,Cassette,1.65,0
+RAV-SM564UT-E + RAV-SP564AT-E,TOSHIBA,Non Ducted,Single Split System,Cassette,1.47,0
+RAV-SM564UT-E + RAV-SP564ATP-A,Toshiba,Non Ducted,Single Split System,Cassette,1.47,0
+RAV-SM564UTP-E + RAV-SM563AT-A,Toshiba,Non Ducted,Single Split System,Cassette,1.65,0
+RAV-SM564UTP-E + RAV-SM564ATP-A1,Toshiba,Non Ducted,Single Split System,Cassette,1.46,0
+RAV-SM564UTP-E + RAV-SP564ATP-A,Toshiba,Non Ducted,Single Split System,Cassette,1.47,0
+RAV-SM564UTP-E + RAV-SP564ATP-A,Toshiba,Non Ducted,Single Split System,Cassette,1.47,0
+RAV-SM564UTP-E + RAV-SP564ATP-A1,Toshiba,Non Ducted,Single Split System,Cassette,1.47,0
+RAV-SM566BT-E + RAV-SP564AT-A,Toshiba,Ducted,Single Split System,,1.51,0
+RAV-SM566BT-E + RAV-SP564ATP-A,Toshiba,Ducted,Single Split System,,1.51,0
+RAV-SM566BTP-E + RAV-SP564ATP-A,Toshiba,Ducted,Single Split System,,1.51,0
+RAV-SM566BTP-E + RAV-SP564ATP-A1,Toshiba,Ducted,Single Split System,,1.51,0
+RAV-SM566KRT-A + RAV-SM564ATP-A1,Toshiba,Non Ducted,Single Split System,Wall Hung,1.41,1.75
+RAV-SM566KRT-A + RAV-SP564ATP-A,Toshiba,Non Ducted,Single Split System,Wall Hung,1.44,2.25
+RAV-SM566KRT-A + RAV-SP564ATP-A1,Toshiba,Non Ducted,Single Split System,Wall Hung,1.44,2.25
+RAV-SM567CTP-E + RAV-SM564ATP-A1,Toshiba,Non Ducted,Single Split System,Under ceiling,1.37,0
+RAV-SM567CTP-E + RAV-SP564ATP-A,Toshiba,Non Ducted,Single Split System,Under ceiling,1.37,0
+RAV-SM800BT-E/RAV-SM800AT-E,TOSHIBA,Non Ducted,Single Split System,,2.6,0
+RAV-SM800UT-E/RAV-SM800AT-E,TOSHIBA,Non Ducted,Single Split System,,2.34,0
+RAV-SM800XT-E/RAV-SM800AT-E,TOSHIBA,Non Ducted,Single Split System,,2.72,0
+RAV-SM800XT-E/RAV-SM801AT-E,TOSHIBA,Non Ducted,Single Split System,,2.72,0
+RAV-SM800XT-E/RAV-SM801AT-E,TOSHIBA,Non Ducted,Single Split System,,2.72,0
+RAV-SM801CT-E/RAV-SM800AT-E,TOSHIBA,Non Ducted,Single Split System,,2.53,0
+RAV-SM801CT-E/RAV-SM801AT-E,TOSHIBA,Non Ducted,Single Split System,,2.53,0
+RAV-SM801CT-E/RAV-SM801AT-E,TOSHIBA,Non Ducted,Single Split System,,2.53,0
+RAV-SM802BT-E x 2 & RAV-SP1404AT-E,TOSHIBA,Ducted,Packaged,,3.83,0
+RAV-SM802BT-E/RAV-SM802AT-E,TOSHIBA,Ducted,Single Split System,,2.53,0
+RAV-SM802BT-E/RAV-SM802AT-E,TOSHIBA,Ducted,Single Split System,,2.53,0
+RAV-SM802BT-E+ RAV-SP804AT-E,TOSHIBA,Ducted,Single Split System,,2.21,0
+RAV-SM802CT-E + RAV-SP804AT-E,TOSHIBA,Non Ducted,Single Split System,Under ceiling,2.21,0
+RAV-SM802CT-E/RAV-SM802AT-E,TOSHIBA,Non Ducted,Single Split System,,2.53,0
+RAV-SM802CT-E/RAV-SM802AT-E,TOSHIBA,Non Ducted,Single Split System,,2.53,0
+RAV-SM802CT-E/RAV-SP802AT-E,TOSHIBA,Non Ducted,Single Split System,,2.1,0
+RAV-SM802CT-E/RAV-SP802AT-E,TOSHIBA,Non Ducted,Single Split System,,2.1,0
+RAV-SM802KRT-E x 2 / RAV-SP1404AT-E,TOSHIBA,Non Ducted,Double/Triple Split,Wall Hung,3.88,0
+RAV-SM802KRT-E/RAV-SM800AT-E,TOSHIBA,Non Ducted,Single Split System,,2.4,0
+RAV-SM802KRT-E/RAV-SM800AT-E,TOSHIBA,Non Ducted,Single Split System,,2.4,0
+RAV-SM802KRT-E/RAV-SM801AT-E,TOSHIBA,Non Ducted,Single Split System,,2.72,0
+RAV-SM802KRT-E/RAV-SM801AT-E,TOSHIBA,Non Ducted,Single Split System,,2.72,0
+RAV-SM802KRT-E/RAV-SM802AT-E,TOSHIBA,Non Ducted,Single Split System,,2.72,0
+RAV-SM802KRT-E/RAV-SM802AT-E,TOSHIBA,Non Ducted,Single Split System,,2.72,0
+RAV-SM802UT-E/RAV-SM802AT-E,TOSHIBA,Non Ducted,Single Split System,,2.34,0
+RAV-SM802UT-E/RAV-SM802AT-E,TOSHIBA,Non Ducted,Single Split System,,2.34,0
+RAV-SM802UT-E/RAV-SP802AT-E,TOSHIBA,Non Ducted,Single Split System,,1.93,0
+RAV-SM802UT-E/RAV-SP802AT-E,TOSHIBA,Non Ducted,Single Split System,,1.93,0
+RAV-SM802XT-E/RAV-SM802AT-E,TOSHIBA,Non Ducted,Single Split System,,2.72,0
+RAV-SM802XT-E/RAV-SM802AT-E,TOSHIBA,Non Ducted,Single Split System,,2.72,0
+RAV-SM804CT-E + RAV-SP804ATP-A,Toshiba,Non Ducted,Single Split System,Under ceiling,1.91,0
+RAV-SM804UT-E + RAV-SM803AT-E,TOSHIBA,Non Ducted,Single Split System,Cassette,2.09,0
+RAV-SM804UT-E + RAV-SP804AT-E,TOSHIBA,Non Ducted,Single Split System,Cassette,1.86,0
+RAV-SM804UT-E + RAV-SP804ATP-A,Toshiba,Non Ducted,Single Split System,Cassette,1.86,0
+RAV-SM804UT-E x 2 & RAV-SM1403AT-E,TOSHIBA,Non Ducted,Double/Triple Split,Cassette,3.74,0
+RAV-SM804UT-E x2  + RAV-SM1403AT-A,Toshiba,Non Ducted,Double/Triple Split,Cassette,3.35,0
+RAV-SM804UTP-E + RAV-SM803AT-A,Toshiba,Non Ducted,Single Split System,Cassette,1.84,0
+RAV-SM804UTP-E + RAV-SM804ATP-A1,Toshiba,Non Ducted,Single Split System,Wall Hung,1.87,0
+RAV-SM804UTP-E + RAV-SP804ATP-A,Toshiba,Non Ducted,Single Split System,Cassette,1.86,0
+RAV-SM804UTP-E + RAV-SP804ATP-A1,Toshiba,Non Ducted,Single Split System,Cassette,1.86,0
+RAV-SM804UTP-E x 2 + RAV-SM1403AT-A,Toshiba,Non Ducted,Double/Triple Split,Cassette,3.35,0
+RAV-SM806BT-E + RAV-SP804ATP-A,Toshiba,Ducted,Single Split System,,2.06,0
+RAV-SM806BT-E +RAV-SP804AT-A,Toshiba,Ducted,Single Split System,,2.06,0
+RAV-SM806BTP-E / RAV-SP804ATP-A1,Toshiba,Ducted,Single Split System,,2.06,0
+RAV-SM806BTP-E + RAV-SP804ATP-A,Toshiba,Ducted,Single Split System,,2.06,0
+RAV-SM806KRT-A / RAV-SP804ATP-A1,Toshiba,Non Ducted,Single Split System,Wall Hung,1.91,1.5
+RAV-SM806KRT-A + RAV-SM804ATP-A1,Toshiba,Non Ducted,Single Split System,Wall Hung,1.7,1.5
+RAV-SM806KRT-A + RAV-SP804ATP-A,Toshiba,Non Ducted,Single Split System,Wall Hung,1.91,1.5
+RAV-SM806KRT-A x 2 / RAV-SP1404AT-A1,Toshiba,Non Ducted,Double/Triple Split,Wall Hung,3.88,0
+RAV-SM806KRT-A x2 + RAV-SP1404AT-A,Toshiba,Non Ducted,Double/Triple Split,Wall Hung,3.88,0
+RAV-SM807CTP-E / RAV-SP804ATP-A1,Toshiba,Non Ducted,Single Split System,Under ceiling,1.86,0
+RAV-SM807CTP-E + RAV-SP804ATP-A,Toshiba,Non Ducted,Single Split System,Under ceiling,1.86,0

@@ -1,0 +1,84 @@
+Model No,Brand,Control,Prog Name,Type,New CEC,New Star
+BD09A/BC09A,Braemar,Ducted,Single Split System,,2.9,0
+BD09A/BC09A,Braemar,Ducted,Single Split System,,2.9,0
+BD11A/BC113A,Braemar,Ducted,Single Split System,,3.4,0
+BD11A/BC113A,Braemar,Ducted,Single Split System,,3.4,0
+BD11A/BC11A,Braemar,Ducted,Single Split System,,3.47,0
+BD11A/BC11A,Braemar,Ducted,Single Split System,,3.47,0
+BD15A/BC13A,Braemar,Ducted,Single Split System,,4.26,0
+BD15A/BC13A,Braemar,Ducted,Single Split System,,4.26,0
+BD15A/BC153A,Braemar,Ducted,Single Split System,,4.82,0
+BD15A/BC153A,Braemar,Ducted,Single Split System,,4.82,0
+BD15A/BC15A,Braemar,Ducted,Single Split System,,4.82,0
+BD15A/BC15A,Braemar,Ducted,Single Split System,,4.82,0
+BD18A/BC183A,Braemar,Ducted,Single Split System,,5.95,0
+BD18A/BC183A,Braemar,Ducted,Single Split System,,5.95,0
+BD21A/BC213A,Braemar,Ducted,Single Split System,,6.73,0
+BD21A/BC213A,Braemar,Ducted,Single Split System,,6.73,0
+BD25A/BC253A,Braemar,Ducted,Single Split System,,8.05,0
+BD25A/BC253A,Braemar,Ducted,Single Split System,,8.05,0
+MCHV04B12,Braemar,Both,Multiple split - Fixed head,Cassette,1.57,0
+MCHV08B13,Braemar,Both,Multiple split - Fixed head,Cassette,2.3,0
+MCHV08B14,Braemar,Both,Multiple split - Fixed head,Cassette,2.33,0
+MCHV10B15,Braemar,Both,Multiple split - Fixed head,Cassette,3.08,0
+MCHV10D14,Braemar,Non Ducted,Multiple split - Fixed head,Wall Hung,3,0
+MCHV11D15,Braemar,Non Ducted,Multiple split - Fixed head,Wall Hung,3.5,0
+MCHV54D12,Braemar,Non Ducted,Multiple split - Fixed head,Wall Hung,1.53,0
+MCHV73D13,Braemar,Non Ducted,Multiple split - Fixed head,Wall Hung,2.18,0
+MCHV81D14,Braemar,Non Ducted,Multiple split - Fixed head,Wall Hung,2.43,0
+MSHV25D1S/SCHV25D1S,Braemar,Non Ducted,Single Split System,Wall Hung,0.67,3
+MSHV35D1S/SCHV35D1S,Braemar,Non Ducted,Single Split System,Wall Hung,0.91,3
+MSHV53D1S/SCHV53D1S,Braemar,Non Ducted,Single Split System,Wall Hung,1.52,2
+MSHV71D1S/SCHV71D1S,Braemar,Non Ducted,Single Split System,Wall Hung,2.16,2
+MSHV80D1S/SCHV80D1S,Braemar,Non Ducted,Single Split System,Wall Hung,2.39,2
+SACC09C-S/BC09A,Braemar,Ducted,Single Split System,,2.62,0
+SACC09C-S/SCHF09C1S,Braemar,Ducted,Single Split System,,2.62,0
+SACC11C-S/BC11A,Braemar,Ducted,Single Split System,,3.21,0
+SACC11C-S/SCHF11C1S,Braemar,Ducted,Single Split System,,3.21,0
+SACC15C-S/BC15A,Braemar,Ducted,Single Split System,,4.18,0
+SACC15C-S/SCHF15C1S,Braemar,Ducted,Single Split System,,4.18,0
+SACC18C-S/BC183A,Braemar,Ducted,Single Split System,,5.36,0
+SACC18C-S/SCCF18C1S,Braemar,Ducted,Single Split System,,4.9,0
+SACC18C-S/SCHF18C3S,Braemar,Ducted,Single Split System,,5.36,0
+SACC21C-S/BC253A,Braemar,Ducted,Single Split System,,7.35,0
+SACC21C-S/SCHF25C3S,Braemar,Ducted,Single Split System,,7.35,0
+SACV10D1S/SCHV10D1S,Braemar,Ducted,Single Split System,,2.9,0
+SACV12D1S/SCHV12D1S,Braemar,Ducted,Single Split System,,3.5,0
+SACV14D1S/SCHV14D1S,Braemar,Ducted,Single Split System,,3.9,0
+SBHV05B1S/SCHV05B1S,Braemar,Non Ducted,Single Split System,Cassette,1.56,2.25
+SBHV07B1S/SCHV07B1S,Braemar,Non Ducted,Single Split System,Cassette,2.15,2
+SBHV09B1S/SCHV09B1S-B,Braemar,Non Ducted,Single Split System,Cassette,2.47,2
+SBHV12B1S/SCHV12B1S,Braemar,Non Ducted,Single Split System,Cassette,3.45,1.5
+SBHV13B1S/SCHV13B1S,Braemar,Non Ducted,Single Split System,Cassette,4.05,1.5
+SDHF15C1S/SCHF13C1S,Braemar,Ducted,Single Split System,,4.26,0
+SDHF15C1S/SCHF15C1S,Braemar,Ducted,Single Split System,,4.82,0
+SDHF15C1S/SCHF15C3S,Braemar,Ducted,Single Split System,,4.82,0
+SDHF18C1S/SCHF18C3S,Braemar,Ducted,Single Split System,,5.95,0
+SDHV05B1S/SCHV05B1S,Braemar,Ducted,Single Split System,Cassette,1.53,0
+SDHV07D1S/SCHV07D1S,Braemar,Ducted,Single Split System,Wall Hung,2.18,0
+SDHV08B1S/SCHV08B1S,Braemar,Ducted,Single Split System,Cassette,2.22,0
+SDHV09B1S/SCHV09B1S,Braemar,Ducted,Single Split System,Cassette,2.7,0
+SDHV10D1S/SCHV10D1S,Braemar,Ducted,Single Split System,Wall Hung,3.1,0
+SDHV11B1S/SCHV11B1S,Braemar,Ducted,Single Split System,Cassette,3.25,0
+SDHV12D1S/SCHV12D1S,Braemar,Ducted,Single Split System,Wall Hung,3.7,0
+SDHV14B1S/SCHV14B1S,Braemar,Ducted,Single Split System,Cassette,4.22,0
+SDHV14D1S/SCHV14D1S,Braemar,Ducted,Single Split System,Wall Hung,4.25,0
+SDHV16D1S/SCHV16D1S,Braemar,Ducted,Single Split System,Wall Hung,5,0
+SDHV17B1S/SCHV17B1S,Braemar,Ducted,Single Split System,Cassette,5.3,0
+SDHV22B1S/SCHV22B3S,Braemar,Ducted,Single Split System,Cassette,7,0
+SDHV26B1S/SCHV26B3S,Braemar,Ducted,Single Split System,Cassette,8.2,0
+U3509A/U3009A,Braemar,Ducted,Single Split System,,2.67,0
+U3511A/BC11A,Braemar,Ducted,Single Split System,,3.25,0
+U3511A/U3011A,Braemar,Ducted,Single Split System,,3.25,0
+U3515A/BC15A,Braemar,Ducted,Single Split System,,4.08,0
+U3515A/U3015A,Braemar,Ducted,Single Split System,,4.08,0
+U3518A/U30183A,Braemar,Ducted,Single Split System,,5.36,0
+U3521A/BC253A,Braemar,Ducted,Single Split System,,7.35,0
+U3521A/SCHF25C3S,Braemar,Ducted,Single Split System,,7.35,0
+U3521A/U30213A,Braemar,Ducted,Single Split System,,5.99,0
+Y3500/Y3000,Braemar,Ducted,Single Split System,,3.6,0
+Y3500/Y3000,Braemar,Ducted,Single Split System,,3.6,0
+Y3510/Y3010,Braemar,Ducted,Single Split System,,4.8,0
+Y3510/Y3010,Braemar,Ducted,Single Split System,,4.8,0
+Y3520/Y3020,Braemar,Ducted,Single Split System,,5.6,0
+Y3520/Y3020,Braemar,Ducted,Single Split System,,5.6,0

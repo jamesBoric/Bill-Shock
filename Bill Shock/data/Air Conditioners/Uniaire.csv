@@ -1,0 +1,69 @@
+Model No,Brand,Control,Prog Name,Type,New CEC,New Star
+ACC21R/FC21,UNIAIRE,Ducted,Packaged,,7,0
+ACC24R/FC24,UNIAIRE,Ducted,Packaged,,8.2,0
+ACC26R/FC26,UNIAIRE,Ducted,Single Split System,,9.25,0
+ACC26R/FC26,UNIAIRE,Ducted,Packaged,,9.25,0
+ACC30R/FC30,UNIAIRE,Ducted,Packaged,,10.67,0
+ACC30R/FC30,UNIAIRE,Ducted,Single Split System,,10.67,0
+ACC35R/FC35,UNIAIRE,Ducted,Packaged,,11.9,0
+ACC40R/FC40,UNIAIRE,Ducted,Packaged,,13.1,0
+ACC42R/FC42,UNIAIRE,Ducted,Single Split System,,14,0
+ACC42R/FC42,UNIAIRE,Ducted,Packaged,,14,0
+ACC45R/FC45,UNIAIRE,Ducted,Packaged,,15.85,0
+ACC50R/FC50,UNIAIRE,Ducted,Packaged,,16.4,0
+ACC50R/FC50,UNIAIRE,Ducted,Single Split System,,16.4,0
+ACC55R/FC55,UNIAIRE,Ducted,Single Split System,,18.5,0
+ACC55R/FC55,UNIAIRE,Ducted,Packaged,,18.5,0
+ACC60R/FC60,UNIAIRE,Ducted,Packaged,,21.34,0
+ACC60R/FC60,UNIAIRE,Ducted,Single Split System,,21.34,0
+ACD10R3/FC10,UNIAIRE,Ducted,Single Split System,,3.3,0
+ACD12R3/FC12,UNIAIRE,Ducted,Packaged,,3.9,0
+ACD12R3/FC12,UNIAIRE,Ducted,Single Split System,,3.9,0
+ACD16R3/FC16,UNIAIRE,Ducted,Single Split System,,5.41,0
+ACD16R3/FC16,UNIAIRE,Ducted,Packaged,,5.41,0
+ACD18R/FC18,UNIAIRE,Ducted,Packaged,,5.85,0
+ACD18R3/FC18,UNIAIRE,Ducted,Single Split System,,5.85,0
+ACD18R3/FC20,UNIAIRE,Ducted,Single Split System,,5.94,0
+ACD20R/FC22,UNIAIRE,Ducted,Single Split System,,6.59,0
+FC12/ACD12,UNIAIRE,Ducted,Packaged,,3.915,0
+FC16/ACD16,UNIAIRE,Ducted,Packaged,,5.565,0
+FC18/ACD18,UNIAIRE,Ducted,Packaged,,5.95,0
+FC20/ACD20,UNIAIRE,Ducted,Single Split System,,6.7,0
+FC24/ACC24,UNIAIRE,Ducted,Single Split System,,8.2,0
+FC26/ACC26,UNIAIRE,Ducted,Single Split System,,8.9,0
+FC30/ACC30,UNIAIRE,Ducted,Single Split System,,10.7,0
+FC35/ACC35,UNIAIRE,Ducted,Single Split System,,11.9,0
+FC40/ACC40,UNIAIRE,Ducted,Single Split System,,13.1,0
+RT10R3,UNIAIRE,Ducted,Single Split System,,3.3,0
+RT12,UNIAIRE,Ducted,Packaged,,3.915,0
+RT12R3,UNIAIRE,Ducted,Packaged,,3.9,0
+RT12R3,UNIAIRE,Ducted,Single Split System,,3.9,0
+RT16,UNIAIRE,Ducted,Packaged,,5.565,0
+RT16R,UNIAIRE,Ducted,Packaged,,5.41,0
+RT16R3,UNIAIRE,Ducted,Single Split System,,5.41,0
+RT18,UNIAIRE,Ducted,Packaged,,5.95,0
+RT18R,UNIAIRE,Ducted,Packaged,,5.85,0
+RT18R,UNIAIRE,Ducted,Single Split System,,5.85,0
+RT20,UNIAIRE,Ducted,Single Split System,,6.7,0
+RT21R,UNIAIRE,Ducted,Packaged,,7,0
+RT24,UNIAIRE,Ducted,Single Split System,,8.2,0
+RT24R,UNIAIRE,Ducted,Packaged,,8.2,0
+RT26,UNIAIRE,Ducted,Single Split System,,8.9,0
+RT26R,UNIAIRE,Ducted,Single Split System,,9.25,0
+RT26R,UNIAIRE,Ducted,Packaged,,9.25,0
+RT30,UNIAIRE,Ducted,Single Split System,,10.7,0
+RT30R,UNIAIRE,Ducted,Packaged,,10.67,0
+RT30R,UNIAIRE,Ducted,Single Split System,,10.67,0
+RT35,UNIAIRE,Ducted,Single Split System,,11.9,0
+RT35R,UNIAIRE,Ducted,Packaged,,11.9,0
+RT40,UNIAIRE,Ducted,Single Split System,,13.1,0
+RT40R,UNIAIRE,Ducted,Packaged,,13.1,0
+RT42R,UNIAIRE,Ducted,Single Split System,,14,0
+RT42R,UNIAIRE,Ducted,Packaged,,14,0
+RT45R,UNIAIRE,Ducted,Packaged,,15.85,0
+RT50R,UNIAIRE,Ducted,Packaged,,16.4,0
+RT50R,UNIAIRE,Ducted,Single Split System,,16.4,0
+RT55R,UNIAIRE,Ducted,Single Split System,,18.5,0
+RT55R,UNIAIRE,Ducted,Packaged,,18.5,0
+RT60R,UNIAIRE,Ducted,Packaged,,21.34,0
+RT60R,UNIAIRE,Ducted,Single Split System,,21.34,0
